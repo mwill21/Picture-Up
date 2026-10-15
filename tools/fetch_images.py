@@ -72,6 +72,20 @@ BAD_TITLE = re.compile(
     r"\b(mite|larva|microscop\w*|tick|map|diagram|logo|drawing|painting|stamp|cartoon|illustration|icon|chart|"
     r"skeleton|fossil|egg|nest|sign|poster|crash|accident|wreck|flag|coat of arms)\b", re.I)
 
+# Words that usually mean a photo is about people, not the subject. Commons search treats -word as "must not contain".
+NEG = "-person -people -man -men -woman -women -boy -girl -children -officer -soldiers -sailors -crew -workers -scientists -students -portrait"
+
+# Better search text for cards whose first-round results were poor (people, brands, wrong subject).
+QUERY_OVERRIDES = {
+    "Flamingo": "flamingo phoenicopterus -marina -everglades", "Peacock": "peafowl pavo cristatus", "Macaw": "scarlet macaw ara macao",
+    "Ostrich": "ostrich struthio camelus", "Solar Eclipse": "total solar eclipse corona totality", "Banana": "bananas bunch fruit -watercolor -painting -print",
+    "Tomato": "ripe red tomatoes -laboratory", "Pumpkin": "pumpkins orange jack-o-lantern -pie -galaxy -soup -libby",
+    "Garbage Truck": "garbage truck refuse collection", "Tractor": "farm tractor field", "Ambulance": "ambulance -crescent",
+    "Police Car": "police car cruiser", "Train": "freight train locomotive railroad", "Bicycle": "bicycle parked bike",
+    "Cement Mixer": "concrete mixer truck", "Excavator": "excavator digging construction", "Bulldozer": "bulldozer construction",
+    "Tow Truck": "tow truck wrecker", "Pickup Truck": "pickup truck", "Taxi": "taxi cab",
+}
+
 # Extra words that may name a card besides its label (regex alternatives).
 SYNONYMS = {
     "Owl": "owl", "Seagull": "gull", "Mallard Duck": "mallard|duck", "Red-tailed Hawk": "hawk", "Canada Goose": "goose|geese",
@@ -82,6 +96,7 @@ SYNONYMS = {
     "Dump Truck": "dump", "Garbage Truck": "garbage|refuse|waste", "Police Car": "police", "School Bus": "school bus",
     "Train": "train|locomotive", "Airplane": "airplane|aircraft|plane|jet", "Bicycle": "bicycle|bike",
     "Sailboat": "sailboat|sailing|yacht|sloop", "Bulldozer": "bulldozer|dozer", "Sun": "sun|solar",
+    "Peacock": "peacock|peafowl|pavo", "Flamingo": "flamingo|phoenicopterus", "Ostrich": "ostrich|struthio",
 }
 
 
@@ -130,7 +145,7 @@ def relevant(label, title, md):
 
 
 def search(q, lq, delay):
-    p = dict(action="query", format="json", generator="search", gsrsearch=f"{q} {lq} filetype:bitmap",
+    p = dict(action="query", format="json", generator="search", gsrsearch=f"{q} {lq} {NEG} filetype:bitmap",
              gsrnamespace=6, gsrlimit=30, prop="imageinfo", iiprop="url|size|mime|extmetadata", iiurlwidth=900,
              iiextmetadatafilter="LicenseShortName|AttributionRequired|NonFree|Restrictions|Artist|ImageDescription")
     pages = (req(API, delay, params=p).json().get("query") or {}).get("pages", {})
@@ -226,7 +241,7 @@ def main():
                 continue
             if label in by_label and by_label[label]["candidates"] and not only_labels:
                 continue  # already done; name it explicitly (group:Label) to redo
-            found = fetch_card(gid, label, q, a.candidates, used, a.delay)
+            found = fetch_card(gid, label, QUERY_OVERRIDES.get(label, q), a.candidates, used, a.delay)
             print(f"{'OK  ' if found else 'MISS'} {gid:9} {label:18} {len(found)} candidate(s)", flush=True)
             by_label[label] = dict(label=label, candidates=found)
             data["items"] = [by_label[l] for l, _ in cards if l in by_label]
