@@ -1,0 +1,527 @@
+{
+ "id": "vehicles",
+ "name": "Trucks & Vehicles",
+ "emoji": "🚒",
+ "items": [
+  {
+   "label": "Fire Truck",
+   "candidates": [
+    {
+     "file": "vehicles_fire-truck_1.jpg",
+     "title": "File:Fire engine at Wright-Patterson Air Force Base.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Fire_engine_at_Wright-Patterson_Air_Force_Base.JPG",
+     "license": "public domain",
+     "author": "William Pugh, U.S. Air Force"
+    },
+    {
+     "file": "vehicles_fire-truck_2.jpg",
+     "title": "File:HINO fire engine in Iraq.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:HINO_fire_engine_in_Iraq.jpg",
+     "license": "public domain",
+     "author": "Alan Moos, U.S. Army"
+    },
+    {
+     "file": "vehicles_fire-truck_3.jpg",
+     "title": "File:Fire truck, Conflagration.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Fire_truck,_Conflagration.jpg",
+     "license": "public domain",
+     "author": "Steve McGill"
+    }
+   ]
+  },
+  {
+   "label": "Dump Truck",
+   "candidates": [
+    {
+     "file": "vehicles_dump-truck_1.jpg",
+     "title": "File:Dump truck in St. Louis, Missouri.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:Dump_truck_in_St._Louis,_Missouri.JPEG",
+     "license": "public domain",
+     "author": "SSGT. Paul Griffin"
+    },
+    {
+     "file": "vehicles_dump-truck_2.jpg",
+     "title": "File:Dump truck in Bean Lake.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Dump_truck_in_Bean_Lake.jpg",
+     "license": "public domain",
+     "author": "Shannon Bond, U.S. Air Force"
+    },
+    {
+     "file": "vehicles_dump-truck_3.jpg",
+     "title": "File:Special purpose dump truck.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:Special_purpose_dump_truck.JPEG",
+     "license": "public domain",
+     "author": "Gary Rice"
+    }
+   ]
+  },
+  {
+   "label": "Garbage Truck",
+   "candidates": [
+    {
+     "file": "vehicles_garbage-truck_1.jpg",
+     "title": "File:Strike breakers on garbage truck.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Strike_breakers_on_garbage_truck.jpg",
+     "license": "public domain",
+     "author": "Library of Congress"
+    },
+    {
+     "file": "vehicles_garbage-truck_2.jpg",
+     "title": "File:Garbage Truck at Croton Landfill Operation.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Garbage_Truck_at_Croton_Landfill_Operation.jpg",
+     "license": "public domain",
+     "author": "The US National Archives"
+    },
+    {
+     "file": "vehicles_garbage-truck_3.jpg",
+     "title": "File:MECHANICAL \"ARM\" OF GARBAGE TRUCK PICKS UP 320-GALLON TRASH CONTAINER AND DUMPS CONTENTS INTO TRUCK. NICKNAMED... - NARA - 544057.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:MECHANICAL_%22ARM%22_OF_GARBAGE_TRUCK_PICKS_UP_320-GALLON_TRASH_CONTAINER_AND_DUMPS_CONTENTS_INTO_TRUCK._NICKNAMED..._-_NARA_-_544057.jpg",
+     "license": "public domain",
+     "author": "Cornelius M. Keyes"
+    }
+   ]
+  },
+  {
+   "label": "Tractor",
+   "candidates": [
+    {
+     "file": "vehicles_tractor_1.jpg",
+     "title": "File:Clarktor-6 Towing Tractor.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Clarktor-6_Towing_Tractor.jpg",
+     "license": "public domain",
+     "author": "National Museum of the United States Air Force"
+    },
+    {
+     "file": "vehicles_tractor_2.jpg",
+     "title": "File:Tractor in Iraq.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_in_Iraq.JPEG",
+     "license": "public domain",
+     "author": "LCPL Ryan B. Busse, U.S. Marine Corps"
+    },
+    {
+     "file": "vehicles_tractor_3.jpg",
+     "title": "File:Tractor in Afghanistan.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_in_Afghanistan.jpg",
+     "license": "public domain",
+     "author": "Artur Shvartsberg, U.S. Marine Corps"
+    }
+   ]
+  },
+  {
+   "label": "School Bus",
+   "candidates": [
+    {
+     "file": "vehicles_school-bus_1.jpg",
+     "title": "File:Crusaders School Bus, Chalmette, Louisiana.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Crusaders_School_Bus,_Chalmette,_Louisiana.jpg",
+     "license": "public domain",
+     "author": "Uncredited for National Park Service"
+    },
+    {
+     "file": "vehicles_school-bus_2.jpg",
+     "title": "File:Government operated Indian school school bus in the United States.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Government_operated_Indian_school_school_bus_in_the_United_States.jpg",
+     "license": "public domain",
+     "author": "United States Department of the Interior"
+    },
+    {
+     "file": "vehicles_school-bus_3.jpg",
+     "title": "File:School Bus and Children 1965 Oak Ridge (27512125134).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:School_Bus_and_Children_1965_Oak_Ridge_(27512125134).jpg",
+     "license": "public domain",
+     "author": "doe-oakridge"
+    }
+   ]
+  },
+  {
+   "label": "Ambulance",
+   "candidates": [
+    {
+     "file": "vehicles_ambulance_1.jpg",
+     "title": "File:Ambulance of the Red Crescent.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Ambulance_of_the_Red_Crescent.JPG",
+     "license": "public domain",
+     "author": "Patrick M. Johnson-Campbell, U.S. Marine Corps"
+    },
+    {
+     "file": "vehicles_ambulance_2.jpg",
+     "title": "File:Australian Army Land Rover 110 6x6 Ambulance in 2014.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Australian_Army_Land_Rover_110_6x6_Ambulance_in_2014.jpg",
+     "license": "public domain",
+     "author": "U.S. Marine Corps Marine Rotational Force - Darwin  Cpl. Scott Reel"
+    },
+    {
+     "file": "vehicles_ambulance_3.jpg",
+     "title": "File:US Navy 070328-N-2328R-003 Sailors load an ambulance aboard dock landing ship USS Pearl Harbor (LSD 52) prior to the ship's departure.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_070328-N-2328R-003_Sailors_load_an_ambulance_aboard_dock_landing_ship_USS_Pearl_Harbor_(LSD_52)_prior_to_the_ship%27s_departure.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Storekeeper 1st Class Marcus Rosales"
+    }
+   ]
+  },
+  {
+   "label": "Police Car",
+   "candidates": [
+    {
+     "file": "vehicles_police-car_1.jpg",
+     "title": "File:National Police Week Car Demonstration (7230493).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:National_Police_Week_Car_Demonstration_(7230493).jpg",
+     "license": "public domain",
+     "author": "U.S. Air Force photo by Airman 1st Class Viviam Chiu"
+    },
+    {
+     "file": "vehicles_police-car_2.jpg",
+     "title": "File:Napoleon House, French Quarter, New Orleans - corner view with police car.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Napoleon_House,_French_Quarter,_New_Orleans_-_corner_view_with_police_car.jpg",
+     "license": "public domain",
+     "author": "Alan Robinson for US National Park Service"
+    },
+    {
+     "file": "vehicles_police-car_3.jpg",
+     "title": "File:USMC Police on scene of Marine Corps Air Ground Combat Center car fire.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:USMC_Police_on_scene_of_Marine_Corps_Air_Ground_Combat_Center_car_fire.jpg",
+     "license": "public domain",
+     "author": "Lance Cpl. Andrew R. Bray"
+    }
+   ]
+  },
+  {
+   "label": "Train",
+   "candidates": [
+    {
+     "file": "vehicles_train_1.jpg",
+     "title": "File:Chicago and Northwestern railroad locomotive shop fsac.1a34676u.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg",
+     "license": "public domain",
+     "author": "Jack Delano"
+    },
+    {
+     "file": "vehicles_train_2.jpg",
+     "title": "File:JackDelanolocomotiveshop.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:JackDelanolocomotiveshop.jpg",
+     "license": "public domain",
+     "author": "Jack Delano"
+    },
+    {
+     "file": "vehicles_train_3.jpg",
+     "title": "File:Cajon Pass cut with Santa Fe steam train.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Cajon_Pass_cut_with_Santa_Fe_steam_train.jpg",
+     "license": "public domain",
+     "author": "Jack Delano"
+    }
+   ]
+  },
+  {
+   "label": "Airplane",
+   "candidates": [
+    {
+     "file": "vehicles_airplane_1.jpg",
+     "title": "File:An F-A-18C Hornet launches from the flight deck of the conventionally powered aircraft carrier.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Photographer's Mate 3rd Class Jonathan Chandler"
+    },
+    {
+     "file": "vehicles_airplane_2.jpg",
+     "title": "File:Airplanes - Flight - Airplane in flight - NARA - 17338908.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Airplanes_-_Flight_-_Airplane_in_flight_-_NARA_-_17338908.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    },
+    {
+     "file": "vehicles_airplane_3.jpg",
+     "title": "File:C-47 AIRPLANE IN FLIGHT - P-61 BLACK WIDOW AIRPLANE IN FLIGHT - F-106 AIRPLANE TOUCH DOWN - B-57 AIRPLANE ON APRON - AJ-2 AIRPLANE IN FLIGHT - NAVION L-17 AIRPLANE IN FLIGHT - NARA - 17446793.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:C-47_AIRPLANE_IN_FLIGHT_-_P-61_BLACK_WIDOW_AIRPLANE_IN_FLIGHT_-_F-106_AIRPLANE_TOUCH_DOWN_-_B-57_AIRPLANE_ON_APRON_-_AJ-2_AIRPLANE_IN_FLIGHT_-_NAVION_L-17_AIRPLANE_IN_FLIGHT_-_NARA_-_17446793.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    }
+   ]
+  },
+  {
+   "label": "Helicopter",
+   "candidates": [
+    {
+     "file": "vehicles_helicopter_1.jpg",
+     "title": "File:090424-F-8450N-002 1st Helicopter Squadron UH-1N takes off.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:090424-F-8450N-002_1st_Helicopter_Squadron_UH-1N_takes_off.jpg",
+     "license": "public domain",
+     "author": "U.S. Air Force photo/ Senior Airman Giang Nguyen"
+    },
+    {
+     "file": "vehicles_helicopter_2.jpg",
+     "title": "File:080430-F-6136T-091 37th Helicopter Squadron UH-1N bottom.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:080430-F-6136T-091_37th_Helicopter_Squadron_UH-1N_bottom.jpg",
+     "license": "public domain",
+     "author": "United States Air Force"
+    },
+    {
+     "file": "vehicles_helicopter_3.jpg",
+     "title": "File:1960April2-helicopter-check-HR (2).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:1960April2-helicopter-check-HR_(2).jpg",
+     "license": "public domain",
+     "author": "U.S. Navy"
+    }
+   ]
+  },
+  {
+   "label": "Bicycle",
+   "candidates": [
+    {
+     "file": "vehicles_bicycle_1.jpg",
+     "title": "File:Police officers teach bicycle hand signals in Kansas, 1966.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Police_officers_teach_bicycle_hand_signals_in_Kansas,_1966.jpg",
+     "license": "public domain",
+     "author": "USDA"
+    },
+    {
+     "file": "vehicles_bicycle_2.jpg",
+     "title": "File:Ranger sitting on bike along the Riverfront (07c88d44-c123-36e0-53b9-0ffb22ae25ec).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ranger_sitting_on_bike_along_the_Riverfront_(07c88d44-c123-36e0-53b9-0ffb22ae25ec).jpg",
+     "license": "public domain",
+     "author": "NPS"
+    },
+    {
+     "file": "vehicles_bicycle_3.jpg",
+     "title": "File:Lariat Loop Scenic and Historic Byway - Santa on a Bike - NARA - 7720006.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Lariat_Loop_Scenic_and_Historic_Byway_-_Santa_on_a_Bike_-_NARA_-_7720006.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    }
+   ]
+  },
+  {
+   "label": "Motorcycle",
+   "candidates": [
+    {
+     "file": "vehicles_motorcycle_1.jpg",
+     "title": "File:1917 - Indian Motorcycle and M1914 Colt Machine Gun.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:1917_-_Indian_Motorcycle_and_M1914_Colt_Machine_Gun.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author"
+    },
+    {
+     "file": "vehicles_motorcycle_2.jpg",
+     "title": "File:Motorcycle Safety 9-20to21-13 0322 (10444094284).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Motorcycle_Safety_9-20to21-13_0322_(10444094284).jpg",
+     "license": "public domain",
+     "author": "U.S. Army Space and Missile Defense Command (SMDC)"
+    },
+    {
+     "file": "vehicles_motorcycle_3.jpg",
+     "title": "File:US Navy 050804-N-0879R-001 A Sailor rides his motorcycle on board Naval Station Pearl Harbor.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_050804-N-0879R-001_A_Sailor_rides_his_motorcycle_on_board_Naval_Station_Pearl_Harbor.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Chief Journalist David Rush"
+    }
+   ]
+  },
+  {
+   "label": "Sailboat",
+   "candidates": [
+    {
+     "file": "vehicles_sailboat_1.jpg",
+     "title": "File:\"Soldiers Working on a Sail for \"Miss Atubrine\" Sailboat\" (BOND 0340).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:%22Soldiers_Working_on_a_Sail_for_%22Miss_Atubrine%22_Sailboat%22_(BOND_0340).jpg",
+     "license": "public domain",
+     "author": "Frank Bond"
+    },
+    {
+     "file": "vehicles_sailboat_2.jpg",
+     "title": "File:US Navy 020917-N-0000X-028 Sailboat adrift at sea after U.S. Navy rescue.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_020917-N-0000X-028_Sailboat_adrift_at_sea_after_U.S._Navy_rescue.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo"
+    },
+    {
+     "file": "vehicles_sailboat_3.jpg",
+     "title": "File:US Navy 020917-N-0000X-012 U.S. Sailors render assistance to a sailboat adrift at sea.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_020917-N-0000X-012_U.S._Sailors_render_assistance_to_a_sailboat_adrift_at_sea.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo"
+    }
+   ]
+  },
+  {
+   "label": "Cement Mixer",
+   "candidates": [
+    {
+     "file": "vehicles_cement-mixer_1.jpg",
+     "title": "File:Iraqi cement mixer truck.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:Iraqi_cement_mixer_truck.JPEG",
+     "license": "public domain",
+     "author": "Robert W. Valenca, U.S. Air Force"
+    },
+    {
+     "file": "vehicles_cement-mixer_2.jpg",
+     "title": "File:EFTA00002766 - Yellow excavator and cement mixer sit inside a warehouse ready for construction work.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:EFTA00002766_-_Yellow_excavator_and_cement_mixer_sit_inside_a_warehouse_ready_for_construction_work.jpg",
+     "license": "public domain",
+     "author": "Federal Bureau of Investigation"
+    },
+    {
+     "file": "vehicles_cement-mixer_3.jpg",
+     "title": "File:As a cement mixer pours it on, construction workers shovel cement for a new section of the flight line - DPLA - 8295713f04f1b76f51f743b9cd7d54a1.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:As_a_cement_mixer_pours_it_on,_construction_workers_shovel_cement_for_a_new_section_of_the_flight_line_-_DPLA_-_8295713f04f1b76f51f743b9cd7d54a1.jpeg",
+     "license": "public domain",
+     "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994"
+    }
+   ]
+  },
+  {
+   "label": "Excavator",
+   "candidates": [
+    {
+     "file": "vehicles_excavator_1.jpg",
+     "title": "File:US Air Force (USAF) personnel assigned to the 200th Civil Engineering Squadron, use a wheeled excavator to dig trenches at the barracks construction site, at Up Park Camp, located i - DPLA - 9ff792241e73fcd140661150969b323b.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Air_Force_(USAF)_personnel_assigned_to_the_200th_Civil_Engineering_Squadron,_use_a_wheeled_excavator_to_dig_trenches_at_the_barracks_construction_site,_at_Up_Park_Camp,_located_i_-_DPLA_-_9ff792241e73fcd140661150969b323b.jpeg",
+     "license": "public domain",
+     "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994"
+    },
+    {
+     "file": "vehicles_excavator_2.jpg",
+     "title": "File:Excavator Making Waterbars to Reduce Erosion.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Excavator_Making_Waterbars_to_Reduce_Erosion.jpg",
+     "license": "public domain",
+     "author": "United States Forest Service"
+    },
+    {
+     "file": "vehicles_excavator_3.jpg",
+     "title": "File:Kubota excavator.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kubota_excavator.jpg",
+     "license": "public domain",
+     "author": "Rey Ramon, U.S. Air Force"
+    }
+   ]
+  },
+  {
+   "label": "Bulldozer",
+   "candidates": [
+    {
+     "file": "vehicles_bulldozer_1.jpg",
+     "title": "File:2017 12 07-17.15.07.359-CST.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_12_07-17.15.07.359-CST.jpg",
+     "license": "public domain",
+     "author": "U.S. Forest Service"
+    },
+    {
+     "file": "vehicles_bulldozer_2.jpg",
+     "title": "File:20180930 FS BTNF CJC DozerOperations RooseveltFire 2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_2.jpg",
+     "license": "public domain",
+     "author": "Intermountain Forest Service, USDA Region 4 Photography"
+    },
+    {
+     "file": "vehicles_bulldozer_3.jpg",
+     "title": "File:20180930 FS BTNF CJC DozerOperations RooseveltFire 1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_1.jpg",
+     "license": "public domain",
+     "author": "Intermountain Forest Service, USDA Region 4 Photography"
+    }
+   ]
+  },
+  {
+   "label": "Tow Truck",
+   "candidates": [
+    {
+     "file": "vehicles_tow-truck_1.jpg",
+     "title": "File:POLICE TOW TRUCK - NARA - 546746.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:POLICE_TOW_TRUCK_-_NARA_-_546746.jpg",
+     "license": "public domain",
+     "author": "Yoichi Okamoto"
+    },
+    {
+     "file": "vehicles_tow-truck_2.jpg",
+     "title": "File:Five Ton tow truck, As Sayliyah Army base in Qatar.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:Five_Ton_tow_truck,_As_Sayliyah_Army_base_in_Qatar.jpeg",
+     "license": "public domain",
+     "author": "LCpl Daniel Kelly, US Marines Corps"
+    },
+    {
+     "file": "vehicles_tow-truck_3.jpg",
+     "title": "File:M88 Recovery Vehicle & M992 field artillery ammunition supply vehicle.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:M88_Recovery_Vehicle_%26_M992_field_artillery_ammunition_supply_vehicle.JPEG",
+     "license": "public domain",
+     "author": "Alfred Johnson, U.S. Army"
+    }
+   ]
+  },
+  {
+   "label": "Pickup Truck",
+   "candidates": [
+    {
+     "file": "vehicles_pickup-truck_1.jpg",
+     "title": "File:RIFLE IN PICKUP TRUCK - NARA - 549220.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:RIFLE_IN_PICKUP_TRUCK_-_NARA_-_549220.jpg",
+     "license": "public domain",
+     "author": "Boyd Norton"
+    },
+    {
+     "file": "vehicles_pickup-truck_2.jpg",
+     "title": "File:FEMA - 37217 - A resident and a pickup truck going through a flooded street in Texas.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:FEMA_-_37217_-_A_resident_and_a_pickup_truck_going_through_a_flooded_street_in_Texas.jpg",
+     "license": "public domain",
+     "author": "Jacinta Quesada"
+    },
+    {
+     "file": "vehicles_pickup-truck_3.jpg",
+     "title": "File:Utah Wild Horse and Burro member pack up the corral on the back of a pickup truck (53003227700).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Utah_Wild_Horse_and_Burro_member_pack_up_the_corral_on_the_back_of_a_pickup_truck_(53003227700).jpg",
+     "license": "public domain",
+     "author": "BLMUtah"
+    }
+   ]
+  },
+  {
+   "label": "Taxi",
+   "candidates": [
+    {
+     "file": "vehicles_taxi_1.jpg",
+     "title": "File:FEMA - 37858 - FEMA workers speaks with taxi cab drivers hired as contractors.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:FEMA_-_37858_-_FEMA_workers_speaks_with_taxi_cab_drivers_hired_as_contractors.jpg",
+     "license": "public domain",
+     "author": "Patsy Lynch"
+    },
+    {
+     "file": "vehicles_taxi_2.jpg",
+     "title": "File:1930s era cab (KEAGLE 0061).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:1930s_era_cab_(KEAGLE_0061).jpg",
+     "license": "public domain",
+     "author": "Robert Keagle"
+    },
+    {
+     "file": "vehicles_taxi_3.jpg",
+     "title": "File:The District Red Cross gives training to taxi drivers8d21183v.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:The_District_Red_Cross_gives_training_to_taxi_drivers8d21183v.jpg",
+     "license": "public domain",
+     "author": "Marjory Collins"
+    }
+   ]
+  },
+  {
+   "label": "Hot Air Balloon",
+   "candidates": [
+    {
+     "file": "vehicles_hot-air-balloon_1.jpg",
+     "title": "File:The U.S. Navy hot air balloon takes part in balloon race - DPLA - a21d54d6298379620ca8c6fce9654bc1.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:The_U.S._Navy_hot_air_balloon_takes_part_in_balloon_race_-_DPLA_-_a21d54d6298379620ca8c6fce9654bc1.jpeg",
+     "license": "public domain",
+     "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994"
+    },
+    {
+     "file": "vehicles_hot-air-balloon_2.jpg",
+     "title": "File:HOT AIR BALLOON IS PREPARED FOR AN ASCENT AT THE FIFTH ANNUAL OKTOBERFEST AT HELEN, GEORGIA, NEAR ROBERTSTOWN.... - NARA - 557798.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:HOT_AIR_BALLOON_IS_PREPARED_FOR_AN_ASCENT_AT_THE_FIFTH_ANNUAL_OKTOBERFEST_AT_HELEN,_GEORGIA,_NEAR_ROBERTSTOWN...._-_NARA_-_557798.jpg",
+     "license": "public domain",
+     "author": "Al Stephenson"
+    },
+    {
+     "file": "vehicles_hot-air-balloon_3.jpg",
+     "title": "File:US Navy 091010-N-3750S-105 Blair Kaufman, center, guides his hot air balloon, Sun Dagger, off the ground at a sunrise mass hot air balloon ascension during the Albuquerque International Balloon Fiesta.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_091010-N-3750S-105_Blair_Kaufman,_center,_guides_his_hot_air_balloon,_Sun_Dagger,_off_the_ground_at_a_sunrise_mass_hot_air_balloon_ascension_during_the_Albuquerque_International_Balloon_Fiesta.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Mass Communication Specialist 1st Class L.A. Shively"
+    }
+   ]
+  }
+ ]
+}

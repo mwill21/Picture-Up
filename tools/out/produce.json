@@ -1,0 +1,527 @@
+{
+ "id": "produce",
+ "name": "Fruits & Veggies",
+ "emoji": "🍎",
+ "items": [
+  {
+   "label": "Apple",
+   "candidates": [
+    {
+     "file": "produce_apple_1.jpg",
+     "title": "File:Tree with red apples in Barkedal 4.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg",
+     "license": "cc0",
+     "author": "W.carter"
+    },
+    {
+     "file": "produce_apple_2.jpg",
+     "title": "File:HK TW 荃灣 Tsuen Wan shop fruit red apple August 2025 N13P 03.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_shop_fruit_red_apple_August_2025_N13P_03.jpg",
+     "license": "cc0",
+     "author": "Wandenging Biimou"
+    },
+    {
+     "file": "produce_apple_3.jpg",
+     "title": "File:HK TW 荃灣 Tsuen Wan shop fruit red apple August 2025 N13P 02.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_shop_fruit_red_apple_August_2025_N13P_02.jpg",
+     "license": "cc0",
+     "author": "Wandenging Biimou"
+    }
+   ]
+  },
+  {
+   "label": "Banana",
+   "candidates": [
+    {
+     "file": "produce_banana_1.jpg",
+     "title": "File:Banana Men SAAM-1974.28.113 1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Banana_Men_SAAM-1974.28.113_1.jpg",
+     "license": "public domain",
+     "author": "Mabel Dwight"
+    },
+    {
+     "file": "produce_banana_2.jpg",
+     "title": "File:Banana trees.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Banana_trees.jpg",
+     "license": "public domain",
+     "author": ""
+    },
+    {
+     "file": "produce_banana_3.jpg",
+     "title": "File:Pomological Watercolor POM00007496.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007496.jpg",
+     "license": "public domain",
+     "author": "Newton, Amanda Almira, ca. 1860-1943"
+    }
+   ]
+  },
+  {
+   "label": "Orange",
+   "candidates": [
+    {
+     "file": "produce_orange_1.jpg",
+     "title": "File:Ambersweet oranges.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg",
+     "license": "public domain",
+     "author": ""
+    },
+    {
+     "file": "produce_orange_2.jpg",
+     "title": "File:Crate of fruit and vegetables.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Crate_of_fruit_and_vegetables.jpg",
+     "license": "public domain",
+     "author": "Unknown photographer"
+    },
+    {
+     "file": "produce_orange_3.jpg",
+     "title": "File:Orange (1).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Orange_(1).jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    }
+   ]
+  },
+  {
+   "label": "Strawberry",
+   "candidates": [
+    {
+     "file": "produce_strawberry_1.jpg",
+     "title": "File:A strawberry with achene.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:A_strawberry_with_achene.jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    },
+    {
+     "file": "produce_strawberry_2.jpg",
+     "title": "File:Strawberries.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Strawberries.jpg",
+     "license": "public domain",
+     "author": "Brian Prechtel"
+    },
+    {
+     "file": "produce_strawberry_3.jpg",
+     "title": "File:Strawberry milk shake (cropped).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Strawberry_milk_shake_(cropped).jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    }
+   ]
+  },
+  {
+   "label": "Grapes",
+   "candidates": [
+    {
+     "file": "produce_grapes_1.jpg",
+     "title": "File:Flame seedless grapes.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flame_seedless_grapes.jpg",
+     "license": "public domain",
+     "author": "Patrick Tregenza"
+    },
+    {
+     "file": "produce_grapes_2.jpg",
+     "title": "File:Grapes (2).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Grapes_(2).jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    },
+    {
+     "file": "produce_grapes_3.jpg",
+     "title": "File:GreenGrapes.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:GreenGrapes.jpg",
+     "license": "public domain",
+     "author": "Renee Comet (photographer)"
+    }
+   ]
+  },
+  {
+   "label": "Watermelon",
+   "candidates": [
+    {
+     "file": "produce_watermelon_1.jpg",
+     "title": "File:Watermelon (1).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Watermelon_(1).jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    },
+    {
+     "file": "produce_watermelon_2.jpg",
+     "title": "File:Unloading watermelons at the farmers' market 8c35068v.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Unloading_watermelons_at_the_farmers%27_market_8c35068v.jpg",
+     "license": "public domain",
+     "author": "Marjory Collins"
+    },
+    {
+     "file": "produce_watermelon_3.jpg",
+     "title": "File:20160715-AMS-LSC-0294 (28486469806).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20160715-AMS-LSC-0294_(28486469806).jpg",
+     "license": "public domain",
+     "author": "U.S. Department of Agriculture\n\nLance Cheung/Multimedia PhotoJournalist/USDA/Lance Cheung"
+    }
+   ]
+  },
+  {
+   "label": "Pineapple",
+   "candidates": [
+    {
+     "file": "produce_pineapple_1.jpg",
+     "title": "File:Pineapple.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pineapple.jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    },
+    {
+     "file": "produce_pineapple_2.jpg",
+     "title": "File:Pineapple farm in Thailand.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Pineapple_farm_in_Thailand.JPG",
+     "license": "public domain",
+     "author": "Gunnery Sgt. Jose A. Garcia, US Marine Corps"
+    },
+    {
+     "file": "produce_pineapple_3.jpg",
+     "title": "File:Pomological Watercolor POM00007369.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007369.jpg",
+     "license": "public domain",
+     "author": "J. Marion Shull"
+    }
+   ]
+  },
+  {
+   "label": "Pear",
+   "candidates": [
+    {
+     "file": "produce_pear_1.jpg",
+     "title": "File:Pears.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+     "license": "public domain",
+     "author": "Keith Weller"
+    },
+    {
+     "file": "produce_pear_2.jpg",
+     "title": "File:Prickly Pear Fruit (50618126823).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Prickly_Pear_Fruit_(50618126823).jpg",
+     "license": "public domain",
+     "author": "SaguaroNPS"
+    },
+    {
+     "file": "produce_pear_3.jpg",
+     "title": "File:Pear and peach.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pear_and_peach.jpg",
+     "license": "public domain",
+     "author": "Scott Bauer, USDA ARS"
+    }
+   ]
+  },
+  {
+   "label": "Cherries",
+   "candidates": [
+    {
+     "file": "produce_cherries_1.jpg",
+     "title": "File:Bing Cherries (USDA ARS).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Bing_Cherries_(USDA_ARS).jpg",
+     "license": "public domain",
+     "author": "Peggy Greb, USDA ARS"
+    },
+    {
+     "file": "produce_cherries_2.jpg",
+     "title": "File:\"Picking cherries on an Oklahoma Fruit Ranch.\" A baby in a stroller watches the busy family at work, ca. 1900. Copy of h - NARA - 516436.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:%22Picking_cherries_on_an_Oklahoma_Fruit_Ranch.%22_A_baby_in_a_stroller_watches_the_busy_family_at_work,_ca._1900._Copy_of_h_-_NARA_-_516436.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    },
+    {
+     "file": "produce_cherries_3.jpg",
+     "title": "File:Washington C D.C. Tidal Basin cherry trees.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Washington_C_D.C._Tidal_Basin_cherry_trees.jpg",
+     "license": "public domain",
+     "author": "USDA photo by Scott Bauer"
+    }
+   ]
+  },
+  {
+   "label": "Lemon",
+   "candidates": [
+    {
+     "file": "produce_lemon_1.jpg",
+     "title": "File:California lemons fresh picked and cured.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:California_lemons_fresh_picked_and_cured.jpg",
+     "license": "public domain",
+     "author": "Ellen Isham Schutt"
+    },
+    {
+     "file": "produce_lemon_2.jpg",
+     "title": "File:Fruit drink.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Fruit_drink.jpg",
+     "license": "public domain",
+     "author": "Unknown photographer"
+    },
+    {
+     "file": "produce_lemon_3.jpg",
+     "title": "File:Lemons for sale.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Lemons_for_sale.JPG",
+     "license": "public domain",
+     "author": "U.S. Air Force photo by Tech. Sgt. Michael B. Keller"
+    }
+   ]
+  },
+  {
+   "label": "Carrot",
+   "candidates": [
+    {
+     "file": "produce_carrot_1.jpg",
+     "title": "File:Carrots of many colors.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Carrots_of_many_colors.jpg",
+     "license": "public domain",
+     "author": "Stephen Ausmus"
+    },
+    {
+     "file": "produce_carrot_2.jpg",
+     "title": "File:CarrotDiversityLg.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:CarrotDiversityLg.jpg",
+     "license": "public domain",
+     "author": "User Larsinio on en.wikipedia"
+    },
+    {
+     "file": "produce_carrot_3.jpg",
+     "title": "File:Carrots of many colors cutout.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Carrots_of_many_colors_cutout.jpg",
+     "license": "public domain",
+     "author": "Stephen Ausmus, USDA ARS"
+    }
+   ]
+  },
+  {
+   "label": "Broccoli",
+   "candidates": [
+    {
+     "file": "produce_broccoli_1.jpg",
+     "title": "File:Broccoli crop.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Broccoli_crop.jpg",
+     "license": "public domain",
+     "author": "Scott Bauer, USDA ARS"
+    },
+    {
+     "file": "produce_broccoli_2.jpg",
+     "title": "File:Good broccoli Deal!.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Good_broccoli_Deal!.jpg",
+     "license": "public domain",
+     "author": "Renee Comet (Photographer)"
+    },
+    {
+     "file": "produce_broccoli_3.jpg",
+     "title": "File:Woman Measuring Broccoli - NARA - 5729287 (page 1).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Woman_Measuring_Broccoli_-_NARA_-_5729287_(page_1).jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    }
+   ]
+  },
+  {
+   "label": "Tomato",
+   "candidates": [
+    {
+     "file": "produce_tomato_1.jpg",
+     "title": "File:Tomato plant in a farm in Iraq.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomato_plant_in_a_farm_in_Iraq.JPG",
+     "license": "public domain",
+     "author": "Venessa Hernandez, U.S. Army"
+    },
+    {
+     "file": "produce_tomato_2.jpg",
+     "title": "File:Tomato plants in the Veggie Passive Orbital Nutrient Delivery System (PONDS).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomato_plants_in_the_Veggie_Passive_Orbital_Nutrient_Delivery_System_(PONDS).jpg",
+     "license": "public domain",
+     "author": "Cory Huston"
+    },
+    {
+     "file": "produce_tomato_3.jpg",
+     "title": "File:Tomato laboratory research.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomato_laboratory_research.jpg",
+     "license": "public domain",
+     "author": "The U.S. Food and Drug Administration"
+    }
+   ]
+  },
+  {
+   "label": "Corn",
+   "candidates": [
+    {
+     "file": "produce_corn_1.jpg",
+     "title": "File:US Navy 080121-N-8547M-053 Culinary Specialist 2nd Class Jiarong Chen, assigned to Naval Mobile Construction Battalion (NMCB) 5, removes corn on the cob from a large steamer for the Martin Luther King Jr. memorial dinner.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_080121-N-8547M-053_Culinary_Specialist_2nd_Class_Jiarong_Chen,_assigned_to_Naval_Mobile_Construction_Battalion_(NMCB)_5,_removes_corn_on_the_cob_from_a_large_steamer_for_the_Martin_Luther_King_Jr._memorial_dinner.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Mass Communication Specialist 3rd Class Patrick W. Mullen III"
+    },
+    {
+     "file": "produce_corn_2.jpg",
+     "title": "File:Corn k8712-1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Corn_k8712-1.jpg",
+     "license": "public domain",
+     "author": "Keith Weller."
+    },
+    {
+     "file": "produce_corn_3.jpg",
+     "title": "File:NRCSOH07011 - Ohio (717400)(NRCS Photo Gallery).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:NRCSOH07011_-_Ohio_(717400)(NRCS_Photo_Gallery).jpg",
+     "license": "public domain",
+     "author": "Photo by Scott Bauer, USDA Natural Resources Conservation Service."
+    }
+   ]
+  },
+  {
+   "label": "Potato",
+   "candidates": [
+    {
+     "file": "produce_potato_1.jpg",
+     "title": "File:Patates.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+     "license": "public domain",
+     "author": "Scott Bauer, USDA ARS"
+    },
+    {
+     "file": "produce_potato_2.jpg",
+     "title": "File:Gushiegu Potato-Festival 2016-11-15 P02 B002.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Gushiegu_Potato-Festival_2016-11-15_P02_B002.jpg",
+     "license": "public domain",
+     "author": "official photographer of the U.S. Embassy in Ghana / USAID in Ghana"
+    },
+    {
+     "file": "produce_potato_3.jpg",
+     "title": "File:Sweet potato harvest Florida fs864795.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Sweet_potato_harvest_Florida_fs864795.jpg",
+     "license": "public domain",
+     "author": "State Archives of Florida, Florida Memory (color slide)"
+    }
+   ]
+  },
+  {
+   "label": "Cucumber",
+   "candidates": [
+    {
+     "file": "produce_cucumber_1.jpg",
+     "title": "File:ARS cucumber.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+     "license": "public domain",
+     "author": "Stephen Ausmus, USDA ARS"
+    },
+    {
+     "file": "produce_cucumber_2.jpg",
+     "title": "File:Boys standing behind a pile of cucumbers - NARA - 285664.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Boys_standing_behind_a_pile_of_cucumbers_-_NARA_-_285664.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author or not provided"
+    },
+    {
+     "file": "produce_cucumber_3.jpg",
+     "title": "File:Basket of cucumbers, peppers, and tomatoes (bd71db7b-e819-4e53-9db0-9b2286a9972d).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Basket_of_cucumbers,_peppers,_and_tomatoes_(bd71db7b-e819-4e53-9db0-9b2286a9972d).jpg",
+     "license": "public domain",
+     "author": "NPS"
+    }
+   ]
+  },
+  {
+   "label": "Pumpkin",
+   "candidates": [
+    {
+     "file": "produce_pumpkin_1.jpg",
+     "title": "File:Pumpkin Pie.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_Pie.jpg",
+     "license": "public domain",
+     "author": "Peggy Greb"
+    },
+    {
+     "file": "produce_pumpkin_2.jpg",
+     "title": "File:\"Greater Pumpkin\" Galaxy Pair.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:%22Greater_Pumpkin%22_Galaxy_Pair.jpg",
+     "license": "public domain",
+     "author": "NASA, ESA, and W. Keel (University of Alabama)"
+    },
+    {
+     "file": "produce_pumpkin_3.jpg",
+     "title": "File:Pumpkin Curry Soup (20161021-AMS-LSC-9001).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_Soup_(20161021-AMS-LSC-9001).jpg",
+     "license": "public domain",
+     "author": "USDAgov"
+    }
+   ]
+  },
+  {
+   "label": "Bell Pepper",
+   "candidates": [
+    {
+     "file": "produce_bell-pepper_1.jpg",
+     "title": "File:RedBellPepper.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:RedBellPepper.jpg",
+     "license": "public domain",
+     "author": "Renee Comet (photographer)"
+    },
+    {
+     "file": "produce_bell-pepper_2.jpg",
+     "title": "File:Washing bell peppers.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Washing_bell_peppers.jpg",
+     "license": "public domain",
+     "author": "U.S. Air Force photo by Airman 1st Class Levin Boland"
+    },
+    {
+     "file": "produce_bell-pepper_3.jpg",
+     "title": "File:Miniature bell peppers.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Miniature_bell_peppers.jpg",
+     "license": "public domain",
+     "author": ""
+    }
+   ]
+  },
+  {
+   "label": "Peas",
+   "candidates": [
+    {
+     "file": "produce_peas_1.jpg",
+     "title": "File:Green pea pods.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Green_pea_pods.jpg",
+     "license": "cc0",
+     "author": "Fumikas Sagisavas"
+    },
+    {
+     "file": "produce_peas_2.jpg",
+     "title": "File:Clianthus puniceus (Kaka Beak) (36835660085).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Clianthus_puniceus_(Kaka_Beak)_(36835660085).jpg",
+     "license": "cc0",
+     "author": "Bernard Spragg. NZ from Christchurch, New Zealand"
+    },
+    {
+     "file": "produce_peas_3.jpg",
+     "title": "File:நெட்டி6.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:%E0%AE%A8%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF6.jpg",
+     "license": "public domain",
+     "author": "Dr.S.Soundarapandian"
+    }
+   ]
+  },
+  {
+   "label": "Onion",
+   "candidates": [
+    {
+     "file": "produce_onion_1.jpg",
+     "title": "File:ARS red onion.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:ARS_red_onion.jpg",
+     "license": "public domain",
+     "author": "Stephen Ausmus, USDA ARS"
+    },
+    {
+     "file": "produce_onion_2.jpg",
+     "title": "File:Flat Stemmed Onion, Applegate Field Office (50167016631).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flat_Stemmed_Onion,_Applegate_Field_Office_(50167016631).jpg",
+     "license": "public domain",
+     "author": "blmcalifornia"
+    },
+    {
+     "file": "produce_onion_3.jpg",
+     "title": "File:Wild Onion (6965126147).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Wild_Onion_(6965126147).jpg",
+     "license": "public domain",
+     "author": "ShenandoahNPS"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,527 @@
+{
+ "id": "space",
+ "name": "Space",
+ "emoji": "🚀",
+ "items": [
+  {
+   "label": "Moon",
+   "candidates": [
+    {
+     "file": "space_moon_1.jpg",
+     "title": "File:Full moon partially obscured by atmosphere.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Full_moon_partially_obscured_by_atmosphere.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_moon_2.jpg",
+     "title": "File:Space Shuttle Discovery under a full moon, 03-11-09.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Discovery_under_a_full_moon,_03-11-09.jpg",
+     "license": "public domain",
+     "author": "NASA/Bill Inglais"
+    },
+    {
+     "file": "space_moon_3.jpg",
+     "title": "File:Full Moon (14232964385).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Full_Moon_(14232964385).jpg",
+     "license": "public domain",
+     "author": "Denali National Park and Preserve"
+    }
+   ]
+  },
+  {
+   "label": "Sun",
+   "candidates": [
+    {
+     "file": "space_sun_1.jpg",
+     "title": "File:Solar Cycle 25 - the Solar Magnetic Field from Solar Minimum to Pole Flip (SVS5344 - SolarCycle Min2Max HMI INTENSITY 033000 print).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Solar_Cycle_25_-_the_Solar_Magnetic_Field_from_Solar_Minimum_to_Pole_Flip_(SVS5344_-_SolarCycle_Min2Max_HMI_INTENSITY_033000_print).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - Global Science and Technology, Inc./Tom Bridgman, eMITS/Joy Ng, ADNET Systems, "
+    },
+    {
+     "file": "space_sun_2.jpg",
+     "title": "File:Solar Cycle 25 - the Solar Magnetic Field from Solar Minimum to Pole Flip (SVS5344 - SolarCycle Min2Max HMI 6h HMI INTENSITY 006400 print).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Solar_Cycle_25_-_the_Solar_Magnetic_Field_from_Solar_Minimum_to_Pole_Flip_(SVS5344_-_SolarCycle_Min2Max_HMI_6h_HMI_INTENSITY_006400_print).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - Global Science and Technology, Inc./Tom Bridgman, eMITS/Joy Ng, ADNET Systems, "
+    },
+    {
+     "file": "space_sun_3.jpg",
+     "title": "File:SDO 20141014 000000 4096 HMIBC (HMI).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:SDO_20141014_000000_4096_HMIBC_(HMI).jpg",
+     "license": "public domain",
+     "author": "Courtesy of NASA/SDO and the AIA, EVE, and HMI science teams."
+    }
+   ]
+  },
+  {
+   "label": "Earth",
+   "candidates": [
+    {
+     "file": "space_earth_1.jpg",
+     "title": "File:The Earth seen from Apollo 17.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
+     "license": "public domain",
+     "author": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans"
+    },
+    {
+     "file": "space_earth_2.jpg",
+     "title": "File:Blue Marble Western Hemisphere.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Western_Hemisphere.jpg",
+     "license": "public domain",
+     "author": "NASA images by Reto Stöckli, based on data from NASA and NOAA. Instrument: Terra - MODIS"
+    },
+    {
+     "file": "space_earth_3.jpg",
+     "title": "File:Blue Marble Eastern Hemisphere.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Eastern_Hemisphere.jpg",
+     "license": "public domain",
+     "author": "NASA images by Reto Stöckli, based on data from NASA and NOAA"
+    }
+   ]
+  },
+  {
+   "label": "Mercury",
+   "candidates": [
+    {
+     "file": "space_mercury_1.jpg",
+     "title": "File:Mercury in color - Prockter07 centered.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mercury_in_color_-_Prockter07_centered.jpg",
+     "license": "public domain",
+     "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington. Edited version of Image:Mer"
+    },
+    {
+     "file": "space_mercury_2.jpg",
+     "title": "File:Mercury in color - Prockter07-edit1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mercury_in_color_-_Prockter07-edit1.jpg",
+     "license": "public domain",
+     "author": "National Aeronautics and Space Administration/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution o"
+    },
+    {
+     "file": "space_mercury_3.jpg",
+     "title": "File:Mercury in true color.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+     "license": "public domain",
+     "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington"
+    }
+   ]
+  },
+  {
+   "label": "Venus",
+   "candidates": [
+    {
+     "file": "space_venus_1.jpg",
+     "title": "File:Venus globe.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Venus_globe.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL"
+    },
+    {
+     "file": "space_venus_2.jpg",
+     "title": "File:PIA23791-Venus-RealAndEnhancedContrastViews-20200608 (cropped).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped).jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech"
+    },
+    {
+     "file": "space_venus_3.jpg",
+     "title": "File:Venus-ParkerSolarProbe-July2020.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Venus-ParkerSolarProbe-July2020.jpg",
+     "license": "public domain",
+     "author": "NASA/Johns Hopkins APL/Naval Research Laboratory/Guillermo Stenborg and Brendan Gallagher"
+    }
+   ]
+  },
+  {
+   "label": "Mars",
+   "candidates": [
+    {
+     "file": "space_mars_1.jpg",
+     "title": "File:Mars Valles Marineris EDIT.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris_EDIT.jpg",
+     "license": "public domain",
+     "author": "Mars_Valles_Marineris.jpeg: NASA picture\nderivative work: Lošmi (talk)"
+    },
+    {
+     "file": "space_mars_2.jpg",
+     "title": "File:Olympus Mons alt.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Olympus_Mons_alt.jpg",
+     "license": "public domain",
+     "author": "Image by NASA, modifications by Seddon"
+    },
+    {
+     "file": "space_mars_3.jpg",
+     "title": "File:Curiosity - Robot Geologist and Chemist in One!.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Curiosity_-_Robot_Geologist_and_Chemist_in_One!.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech"
+    }
+   ]
+  },
+  {
+   "label": "Jupiter",
+   "candidates": [
+    {
+     "file": "space_jupiter_1.jpg",
+     "title": "File:Portrait of Jupiter from Cassini.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jupiter_from_Cassini.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL/Space Science Institute"
+    },
+    {
+     "file": "space_jupiter_2.jpg",
+     "title": "File:PIA21972 Jupiter Blues.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PIA21972_Jupiter_Blues.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/SwRI/MSSS/Gerald Eichstadt/Sean Doran"
+    },
+    {
+     "file": "space_jupiter_3.jpg",
+     "title": "File:PIA21381 - Jupiter from Below (cropped) (panorama).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PIA21381_-_Jupiter_from_Below_(cropped)_(panorama).jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/SwRI/MSSS"
+    }
+   ]
+  },
+  {
+   "label": "Saturn",
+   "candidates": [
+    {
+     "file": "space_saturn_1.jpg",
+     "title": "File:Top view of the rings of Saturn by Cassini - October 10, 2013.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Top_view_of_the_rings_of_Saturn_by_Cassini_-_October_10,_2013.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/SSI/Cornell"
+    },
+    {
+     "file": "space_saturn_2.jpg",
+     "title": "File:Saturn from Cassini Orbiter (2004-10-06).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Saturn_from_Cassini_Orbiter_(2004-10-06).jpg",
+     "license": "public domain",
+     "author": "NASA/JPL/Space Science Institute"
+    },
+    {
+     "file": "space_saturn_3.jpg",
+     "title": "File:Saturn during Equinox.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Saturn_during_Equinox.jpg",
+     "license": "public domain",
+     "author": "NASA / JPL / Space Science Institute"
+    }
+   ]
+  },
+  {
+   "label": "Uranus",
+   "candidates": [
+    {
+     "file": "space_uranus_1.jpg",
+     "title": "File:Uranus2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Uranus2.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech"
+    },
+    {
+     "file": "space_uranus_2.jpg",
+     "title": "File:Polar aurora on Uranus HST.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Polar_aurora_on_Uranus_HST.jpg",
+     "license": "public domain",
+     "author": "Credit: NASA, ESA, and L. Lamy (Observatory of Paris, CNRS, CNES)"
+    },
+    {
+     "file": "space_uranus_3.jpg",
+     "title": "File:Uranus Final Image.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Uranus_Final_Image.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    }
+   ]
+  },
+  {
+   "label": "Neptune",
+   "candidates": [
+    {
+     "file": "space_neptune_1.jpg",
+     "title": "File:Neptune Full.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_neptune_2.jpg",
+     "title": "File:PIA00344 Neptune on Triton's Horizon.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PIA00344_Neptune_on_Triton%27s_Horizon.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL"
+    },
+    {
+     "file": "space_neptune_3.jpg",
+     "title": "File:Triton neptune new-horizons 20100623.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Triton_neptune_new-horizons_20100623.jpg",
+     "license": "public domain",
+     "author": "NASA / JHUAPL / SwRI"
+    }
+   ]
+  },
+  {
+   "label": "Pluto",
+   "candidates": [
+    {
+     "file": "space_pluto_1.jpg",
+     "title": "File:Pluto-01 Stern 03 Pluto Color TXT.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pluto-01_Stern_03_Pluto_Color_TXT.jpg",
+     "license": "public domain",
+     "author": "NASA / Johns Hopkins University Applied Physics Laboratory / Southwest Research Institute"
+    },
+    {
+     "file": "space_pluto_2.jpg",
+     "title": "File:Pluto in True Color - High-Res.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.jpg",
+     "license": "public domain",
+     "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker"
+    },
+    {
+     "file": "space_pluto_3.jpg",
+     "title": "File:New Horizons encapsulation.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:New_Horizons_encapsulation.jpg",
+     "license": "public domain",
+     "author": "Unknown authorUnknown author"
+    }
+   ]
+  },
+  {
+   "label": "Space Shuttle",
+   "candidates": [
+    {
+     "file": "space_space-shuttle_1.jpg",
+     "title": "File:STS120LaunchHiRes-edit1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:STS120LaunchHiRes-edit1.jpg",
+     "license": "public domain",
+     "author": "NASA; edited by jjron (tilt corrected)"
+    },
+    {
+     "file": "space_space-shuttle_2.jpg",
+     "title": "File:Space Shuttle Columbia launching.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Columbia_launching.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_space-shuttle_3.jpg",
+     "title": "File:Brightly lit STS-135 on launch pad 39a.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Brightly_lit_STS-135_on_launch_pad_39a.jpg",
+     "license": "public domain",
+     "author": "Bill Ingalls"
+    }
+   ]
+  },
+  {
+   "label": "Rocket",
+   "candidates": [
+    {
+     "file": "space_rocket_1.jpg",
+     "title": "File:S-IC engines and Von Braun.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:S-IC_engines_and_Von_Braun.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_rocket_2.jpg",
+     "title": "File:Apollo 11 Launch2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch2.jpg",
+     "license": "public domain",
+     "author": "NASA; restored by Michel Vuijlsteke"
+    },
+    {
+     "file": "space_rocket_3.jpg",
+     "title": "File:Apollo 11 Launch - GPN-2000-000630.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    }
+   ]
+  },
+  {
+   "label": "Space Station",
+   "candidates": [
+    {
+     "file": "space_space-station_1.jpg",
+     "title": "File:STS-134 International Space Station after undocking.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:STS-134_International_Space_Station_after_undocking.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_space-station_2.jpg",
+     "title": "File:ISS March 2009.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:ISS_March_2009.jpg",
+     "license": "public domain",
+     "author": "National Aeronautics and Space Administration (Q23548)"
+    },
+    {
+     "file": "space_space-station_3.jpg",
+     "title": "File:STS-135 final flyaround of ISS 1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:STS-135_final_flyaround_of_ISS_1.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    }
+   ]
+  },
+  {
+   "label": "Milky Way",
+   "candidates": [
+    {
+     "file": "space_milky-way_1.jpg",
+     "title": "File:Milky Way IR Spitzer.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+     "license": "public domain",
+     "author": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)"
+    },
+    {
+     "file": "space_milky-way_2.jpg",
+     "title": "File:Center of the Milky Way Galaxy IV – Composite.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/ESA/CXC/STScI"
+    },
+    {
+     "file": "space_milky-way_3.jpg",
+     "title": "File:Milky Way over dunes in Great Sand Dunes National Park, Colorado, United States.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_dunes_in_Great_Sand_Dunes_National_Park,_Colorado,_United_States.jpg",
+     "license": "public domain",
+     "author": "NPS/Patrick Myers"
+    }
+   ]
+  },
+  {
+   "label": "Nebula",
+   "candidates": [
+    {
+     "file": "space_nebula_1.jpg",
+     "title": "File:Hubble Looks at Orion Nebula (NASA) (463242020).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Hubble_Looks_at_Orion_Nebula_(NASA)_(463242020).jpg",
+     "license": "public domain",
+     "author": "pingnews.com"
+    },
+    {
+     "file": "space_nebula_2.jpg",
+     "title": "File:Journey into the Orion Nebula (Dome Version) (SVS14657).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Journey_into_the_Orion_Nebula_(Dome_Version)_(SVS14657).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - KBR Wyle Services, LLC/Paul Morris, ADNET Systems, Inc./Aaron E. Lepsch"
+    },
+    {
+     "file": "space_nebula_3.jpg",
+     "title": "File:Orion Nebula (M42) part HST 4800px.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_(M42)_part_HST_4800px.jpg",
+     "license": "public domain",
+     "author": "Credit: NASA, ESA, and The Hubble Heritage Team (STScI/AURA)\n\nAcknowledgment: NASA, ESA, M. Robberto (Space Telescope Sc"
+    }
+   ]
+  },
+  {
+   "label": "Comet",
+   "candidates": [
+    {
+     "file": "space_comet_1.jpg",
+     "title": "File:Deep Impact HRI.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:Deep_Impact_HRI.jpeg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/UMD"
+    },
+    {
+     "file": "space_comet_2.jpg",
+     "title": "File:Comet 81P Wild with jets.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Comet_81P_Wild_with_jets.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL"
+    },
+    {
+     "file": "space_comet_3.jpg",
+     "title": "File:An Infrared portrait of Comet NEOWISE (C2014 C3).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:An_Infrared_portrait_of_Comet_NEOWISE_(C2014_C3).jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech"
+    }
+   ]
+  },
+  {
+   "label": "Solar Eclipse",
+   "candidates": [
+    {
+     "file": "space_solar-eclipse_1.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-016).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-016).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    },
+    {
+     "file": "space_solar-eclipse_2.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-022).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-022).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    },
+    {
+     "file": "space_solar-eclipse_3.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-020).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-020).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    }
+   ]
+  },
+  {
+   "label": "Hubble Telescope",
+   "candidates": [
+    {
+     "file": "space_hubble-telescope_1.jpg",
+     "title": "File:Hubble 2009 close-up.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_hubble-telescope_2.jpg",
+     "title": "File:Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg",
+     "license": "public domain",
+     "author": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)"
+    },
+    {
+     "file": "space_hubble-telescope_3.jpg",
+     "title": "File:Hubble Space Telescope Grappled by Shuttle Arm (27512134324).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Hubble_Space_Telescope_Grappled_by_Shuttle_Arm_(27512134324).jpg",
+     "license": "public domain",
+     "author": "NASA Hubble Space Telescope"
+    }
+   ]
+  },
+  {
+   "label": "Mars Rover",
+   "candidates": [
+    {
+     "file": "space_mars-rover_1.jpg",
+     "title": "File:PIA16239 High-Resolution Self-Portrait by Curiosity Rover Arm Camera.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg",
+     "license": "public domain",
+     "author": "NASA/JPL-Caltech/Malin Space Science Systems\nDerivative work including grading, distortion correction, minor local adjus"
+    },
+    {
+     "file": "space_mars-rover_2.jpg",
+     "title": "File:Curiosity Self-Portrait at 'Big Sky' Drilling Site.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg",
+     "license": "public domain",
+     "author": "NASA"
+    },
+    {
+     "file": "space_mars-rover_3.jpg",
+     "title": "File:Curiosity Self-Portrait at 'Big Sky' Drilling Site (PIA19920).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site_(PIA19920).jpg",
+     "license": "public domain",
+     "author": "NASA"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,527 @@
+{
+ "id": "birds",
+ "name": "Birds",
+ "emoji": "🐦",
+ "items": [
+  {
+   "label": "Bald Eagle",
+   "candidates": [
+    {
+     "file": "birds_bald-eagle_1.jpg",
+     "title": "File:Haliaeetus leucocephalus-flight-USFWS.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus-flight-USFWS.jpg",
+     "license": "public domain",
+     "author": "Hillebrand, Steve"
+    },
+    {
+     "file": "birds_bald-eagle_2.jpg",
+     "title": "File:Haliaeetus leucocephalus-flight2-USFWS.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus-flight2-USFWS.jpg",
+     "license": "public domain",
+     "author": "Hillebrand, Steve"
+    },
+    {
+     "file": "birds_bald-eagle_3.jpg",
+     "title": "File:Bald eagle FWS.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Bald_eagle_FWS.jpg",
+     "license": "public domain",
+     "author": "FWS"
+    }
+   ]
+  },
+  {
+   "label": "Owl",
+   "candidates": [
+    {
+     "file": "birds_owl_1.jpg",
+     "title": "File:Great horned owl (15407832546).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_(15407832546).jpg",
+     "license": "public domain",
+     "author": "Yellowstone National Park from Yellowstone NP, USA"
+    },
+    {
+     "file": "birds_owl_2.jpg",
+     "title": "File:Great horned owl family (53771136952).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_family_(53771136952).jpg",
+     "license": "public domain",
+     "author": "BLM Nevada"
+    },
+    {
+     "file": "birds_owl_3.jpg",
+     "title": "File:Camouflaged Great Horned Owl (46615964685).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Camouflaged_Great_Horned_Owl_(46615964685).jpg",
+     "license": "public domain",
+     "author": "Great Sand Dunes National Park and Preserve"
+    }
+   ]
+  },
+  {
+   "label": "Flamingo",
+   "candidates": [
+    {
+     "file": "birds_flamingo_1.jpg",
+     "title": "File:Flamingo - marina, 1, NPSPhoto, R. Cammauf (9255463333).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flamingo_-_marina,_1,_NPSPhoto,_R._Cammauf_(9255463333).jpg",
+     "license": "public domain",
+     "author": "Everglades NPS from Homestead, Florida, United States"
+    },
+    {
+     "file": "birds_flamingo_2.jpg",
+     "title": "File:Flamingo - Inland Waterway, 1, NPSPhoto, R. Cammauf (9258234538).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flamingo_-_Inland_Waterway,_1,_NPSPhoto,_R._Cammauf_(9258234538).jpg",
+     "license": "public domain",
+     "author": "Everglades NPS from Homestead, Florida, United States"
+    },
+    {
+     "file": "birds_flamingo_3.jpg",
+     "title": "File:Flamingo Marina, NPSPhoto, Rodney Cammauf (2) (9101950804).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flamingo_Marina,_NPSPhoto,_Rodney_Cammauf_(2)_(9101950804).jpg",
+     "license": "public domain",
+     "author": "Everglades NPS from Homestead, Florida, United States"
+    }
+   ]
+  },
+  {
+   "label": "Peacock",
+   "candidates": [
+    {
+     "file": "birds_peacock_1.jpg",
+     "title": "File:Marcus Peacock - 2006 (cropped).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Marcus_Peacock_-_2006_(cropped).jpg",
+     "license": "public domain",
+     "author": "Environmental Protection Agency. Office of the Administrator. Office of Public Affairs"
+    },
+    {
+     "file": "birds_peacock_2.jpg",
+     "title": "File:Office of the Deputy Administrator - Marcus C. Peacock Portrait (412-APD-806-MPeacock 1Official 18x10.jpg) - DPLA - 7e2a4a49c2ca4600ff48e7867a70d482.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Deputy_Administrator_-_Marcus_C._Peacock_Portrait_(412-APD-806-MPeacock_1Official_18x10.jpg)_-_DPLA_-_7e2a4a49c2ca4600ff48e7867a70d482.jpg",
+     "license": "public domain",
+     "author": "Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/201"
+    },
+    {
+     "file": "birds_peacock_3.jpg",
+     "title": "File:AndrewPeacock.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:AndrewPeacock.jpg",
+     "license": "public domain",
+     "author": "Robert D. Ward"
+    }
+   ]
+  },
+  {
+   "label": "Robin",
+   "candidates": [
+    {
+     "file": "birds_robin_1.jpg",
+     "title": "File:American Robin - Turdus migratorius (70424af9-938b-4bb4-a92b-f699b5bc0a34).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Robin_-_Turdus_migratorius_(70424af9-938b-4bb4-a92b-f699b5bc0a34).jpg",
+     "license": "public domain",
+     "author": "Jacob W. Frank"
+    },
+    {
+     "file": "birds_robin_2.jpg",
+     "title": "File:Turdus migratorius 2016-06.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Turdus_migratorius_2016-06.jpg",
+     "license": "public domain",
+     "author": "Mara Koenig/USFWS"
+    },
+    {
+     "file": "birds_robin_3.jpg",
+     "title": "File:American Robin - Turdus migratorius (34502157450).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Robin_-_Turdus_migratorius_(34502157450).jpg",
+     "license": "public domain",
+     "author": "Yellowstone National Park"
+    }
+   ]
+  },
+  {
+   "label": "Blue Jay",
+   "candidates": [
+    {
+     "file": "birds_blue-jay_1.jpg",
+     "title": "File:Blue jay (51177517602).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_jay_(51177517602).jpg",
+     "license": "public domain",
+     "author": "USFWS Midwest Region from United States"
+    },
+    {
+     "file": "birds_blue-jay_2.jpg",
+     "title": "File:Blue & Gold (22248195914).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_%26_Gold_(22248195914).jpg",
+     "license": "public domain",
+     "author": "Shenandoah  National Park from Virginia"
+    },
+    {
+     "file": "birds_blue-jay_3.jpg",
+     "title": "File:Blue in the Fall (22499215286).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_in_the_Fall_(22499215286).jpg",
+     "license": "public domain",
+     "author": "Shenandoah  National Park from Virginia"
+    }
+   ]
+  },
+  {
+   "label": "Cardinal",
+   "candidates": [
+    {
+     "file": "birds_cardinal_1.jpg",
+     "title": "File:Northern cardinal (Cardinalis cardinalis).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Northern_cardinal_(Cardinalis_cardinalis).jpg",
+     "license": "public domain",
+     "author": "Hollllingsworth"
+    },
+    {
+     "file": "birds_cardinal_2.jpg",
+     "title": "File:Northern Cardinal (Cardinalis cardinalis).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Northern_Cardinal_(Cardinalis_cardinalis).jpg",
+     "license": "public domain",
+     "author": "Barnes, Dr.Thomas G."
+    },
+    {
+     "file": "birds_cardinal_3.jpg",
+     "title": "File:Northern Cardinal feeding another. NRCS photo by Beverly Moseley. (24486961893).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Northern_Cardinal_feeding_another._NRCS_photo_by_Beverly_Moseley._(24486961893).jpg",
+     "license": "public domain",
+     "author": "USDA NRCS Texas"
+    }
+   ]
+  },
+  {
+   "label": "Hummingbird",
+   "candidates": [
+    {
+     "file": "birds_hummingbird_1.jpg",
+     "title": "File:Anna's hummingbird in southwest Washington (52991707849).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Anna%27s_hummingbird_in_southwest_Washington_(52991707849).jpg",
+     "license": "public domain",
+     "author": "USFWS Pacific"
+    },
+    {
+     "file": "birds_hummingbird_2.jpg",
+     "title": "File:Ruby-throated hummingbird (50037668653).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_(50037668653).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_hummingbird_3.jpg",
+     "title": "File:Ruby-throated hummingbird (50037694183).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_(50037694183).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    }
+   ]
+  },
+  {
+   "label": "Mallard Duck",
+   "candidates": [
+    {
+     "file": "birds_mallard-duck_1.jpg",
+     "title": "File:Mallard Duck in Lamar Valley (50720723381).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mallard_Duck_in_Lamar_Valley_(50720723381).jpg",
+     "license": "public domain",
+     "author": "YellowstoneNPS"
+    },
+    {
+     "file": "birds_mallard-duck_2.jpg",
+     "title": "File:Wood Duck & Mallard Drakes (26480370816).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Wood_Duck_%26_Mallard_Drakes_(26480370816).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_mallard-duck_3.jpg",
+     "title": "File:Mallard Speculum (34431869295).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mallard_Speculum_(34431869295).jpg",
+     "license": "public domain",
+     "author": "USFWS Mountain Prairie"
+    }
+   ]
+  },
+  {
+   "label": "Swan",
+   "candidates": [
+    {
+     "file": "birds_swan_1.jpg",
+     "title": "File:Mute Swan (Cygnus olor) Great Meadows NWR, Concord, MA (7245778908).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mute_Swan_(Cygnus_olor)_Great_Meadows_NWR,_Concord,_MA_(7245778908).jpg",
+     "license": "public domain",
+     "author": "U. S. Fish and Wildlife Service - Northeast Region"
+    },
+    {
+     "file": "birds_swan_2.jpg",
+     "title": "File:Mute swan (23701555309).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mute_swan_(23701555309).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_swan_3.jpg",
+     "title": "File:Mute Swan (6103913331).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mute_Swan_(6103913331).jpg",
+     "license": "public domain",
+     "author": "USFWS Mountain-Prairie"
+    }
+   ]
+  },
+  {
+   "label": "Macaw",
+   "candidates": [
+    {
+     "file": "birds_macaw_1.jpg",
+     "title": "File:PMNM - Setting Invasive Species Quadrat On USS Macaw (35209735730).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PMNM_-_Setting_Invasive_Species_Quadrat_On_USS_Macaw_(35209735730).jpg",
+     "license": "public domain",
+     "author": "National Marine Sanctuaries"
+    },
+    {
+     "file": "birds_macaw_2.jpg",
+     "title": "File:USS Flier (SS-250) and USS Macaw (ASR-11) aground at Midway Atoll, 17 January 1944.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:USS_Flier_(SS-250)_and_USS_Macaw_(ASR-11)_aground_at_Midway_Atoll,_17_January_1944.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy"
+    },
+    {
+     "file": "birds_macaw_3.jpg",
+     "title": "File:CBP Agriculture Specialists Intercept Macaw Lacking Export Certification (11928939536).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:CBP_Agriculture_Specialists_Intercept_Macaw_Lacking_Export_Certification_(11928939536).jpg",
+     "license": "public domain",
+     "author": "U.S. Customs and Border Protection"
+    }
+   ]
+  },
+  {
+   "label": "Toucan",
+   "candidates": [
+    {
+     "file": "birds_toucan_1.jpg",
+     "title": "File:Toco toucan Parque das Aves 2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Toco_toucan_Parque_das_Aves_2.jpg",
+     "license": "cc0",
+     "author": "Alex98"
+    },
+    {
+     "file": "birds_toucan_2.jpg",
+     "title": "File:Keel-billed toucan in Costa Rica 03.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Keel-billed_toucan_in_Costa_Rica_03.jpg",
+     "license": "cc0",
+     "author": "Bernard Gagnon"
+    },
+    {
+     "file": "birds_toucan_3.jpg",
+     "title": "File:Keel-billed toucan in Costa Rica 01.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Keel-billed_toucan_in_Costa_Rica_01.jpg",
+     "license": "cc0",
+     "author": "Bernard Gagnon"
+    }
+   ]
+  },
+  {
+   "label": "Pelican",
+   "candidates": [
+    {
+     "file": "birds_pelican_1.jpg",
+     "title": "File:SWOD Mark 7 Pelican.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:SWOD_Mark_7_Pelican.jpg",
+     "license": "public domain",
+     "author": "National Institute of Standards and Technology"
+    },
+    {
+     "file": "birds_pelican_2.jpg",
+     "title": "File:American white pelicans in flight (53109414445).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_white_pelicans_in_flight_(53109414445).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_pelican_3.jpg",
+     "title": "File:Brown and White Pelicans Rest On Pelican Island NWR.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Brown_and_White_Pelicans_Rest_On_Pelican_Island_NWR.jpg",
+     "license": "public domain",
+     "author": "George Gentry, U.S. Fish and Wildlife Service"
+    }
+   ]
+  },
+  {
+   "label": "Puffin",
+   "candidates": [
+    {
+     "file": "birds_puffin_1.jpg",
+     "title": "File:Atlantic Puffin (8574372061).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_(8574372061).jpg",
+     "license": "public domain",
+     "author": "U. S. Fish and Wildlife Service - Northeast Region"
+    },
+    {
+     "file": "birds_puffin_2.jpg",
+     "title": "File:Atlantic puffin (4188077944).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlantic_puffin_(4188077944).jpg",
+     "license": "public domain",
+     "author": "U. S. Fish and Wildlife Service - Northeast Region"
+    },
+    {
+     "file": "birds_puffin_3.jpg",
+     "title": "File:Atlantic puffin (8575465654).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlantic_puffin_(8575465654).jpg",
+     "license": "public domain",
+     "author": "U. S. Fish and Wildlife Service - Northeast Region"
+    }
+   ]
+  },
+  {
+   "label": "Woodpecker",
+   "candidates": [
+    {
+     "file": "birds_woodpecker_1.jpg",
+     "title": "File:Red-headed Woodpecker (32925231161).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Red-headed_Woodpecker_(32925231161).jpg",
+     "license": "public domain",
+     "author": "USFWSmidwest"
+    },
+    {
+     "file": "birds_woodpecker_2.jpg",
+     "title": "File:A Red-bellied Woodpecker searches for insects (f43f5021-089c-40aa-a3fe-cdd7cf6c15bd).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Red-bellied_Woodpecker_searches_for_insects_(f43f5021-089c-40aa-a3fe-cdd7cf6c15bd).jpg",
+     "license": "public domain",
+     "author": "NPS"
+    },
+    {
+     "file": "birds_woodpecker_3.jpg",
+     "title": "File:Pileated woodpecker (23442858813).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pileated_woodpecker_(23442858813).jpg",
+     "license": "public domain",
+     "author": "USFWSmidwest"
+    }
+   ]
+  },
+  {
+   "label": "Red-tailed Hawk",
+   "candidates": [
+    {
+     "file": "birds_red-tailed-hawk_1.jpg",
+     "title": "File:A pair of red-tailed hawks (Buteo jamaicensis) perched in a tree near Hellroaring Creek (41734977354).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:A_pair_of_red-tailed_hawks_(Buteo_jamaicensis)_perched_in_a_tree_near_Hellroaring_Creek_(41734977354).jpg",
+     "license": "public domain",
+     "author": "Yellowstone National Park"
+    },
+    {
+     "file": "birds_red-tailed-hawk_2.jpg",
+     "title": "File:Red-tailed hawk (17163253897).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(17163253897).jpg",
+     "license": "public domain",
+     "author": "Santa Monica Mountains National Recreation Area"
+    },
+    {
+     "file": "birds_red-tailed-hawk_3.jpg",
+     "title": "File:Red-tailed hawk (52456612480).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(52456612480).jpg",
+     "license": "public domain",
+     "author": "USFWS Pacific"
+    }
+   ]
+  },
+  {
+   "label": "Canada Goose",
+   "candidates": [
+    {
+     "file": "birds_canada-goose_1.jpg",
+     "title": "File:Canada goose (Branta canadensis) (45635535442).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Canada_goose_(Branta_canadensis)_(45635535442).jpg",
+     "license": "public domain",
+     "author": "GlacierNPS"
+    },
+    {
+     "file": "birds_canada-goose_2.jpg",
+     "title": "File:Canada goose on Seedskadee NWR (27826185489).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Canada_goose_on_Seedskadee_NWR_(27826185489).jpg",
+     "license": "public domain",
+     "author": "USFWS Mountain-Prairie"
+    },
+    {
+     "file": "birds_canada-goose_3.jpg",
+     "title": "File:Mother Canada goose (Branta canadensis) and goslings (43176249261).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Mother_Canada_goose_(Branta_canadensis)_and_goslings_(43176249261).jpg",
+     "license": "public domain",
+     "author": "Yellowstone National Park"
+    }
+   ]
+  },
+  {
+   "label": "Crow",
+   "candidates": [
+    {
+     "file": "birds_crow_1.jpg",
+     "title": "File:American Crow (38449289144).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Crow_(38449289144).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_crow_2.jpg",
+     "title": "File:American Crow (39156823951).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Crow_(39156823951).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_crow_3.jpg",
+     "title": "File:American crow (54055201816).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:American_crow_(54055201816).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    }
+   ]
+  },
+  {
+   "label": "Seagull",
+   "candidates": [
+    {
+     "file": "birds_seagull_1.jpg",
+     "title": "File:USS Gull AM 74.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:USS_Gull_AM_74.jpg",
+     "license": "public domain",
+     "author": "Naval History and Heritage Command photo NH 89213"
+    },
+    {
+     "file": "birds_seagull_2.jpg",
+     "title": "File:Black-headed Gull (Chroicocephalus ridibundus).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Black-headed_Gull_(Chroicocephalus_ridibundus).jpg",
+     "license": "cc0",
+     "author": "Hobbyfotowiki"
+    },
+    {
+     "file": "birds_seagull_3.jpg",
+     "title": "File:Yellow-legged Gull flying, Ibiza.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Yellow-legged_Gull_flying,_Ibiza.jpg",
+     "license": "cc0",
+     "author": "Joselodos"
+    }
+   ]
+  },
+  {
+   "label": "Ostrich",
+   "candidates": [
+    {
+     "file": "birds_ostrich_1.jpg",
+     "title": "File:\"An ostrich only thinks he \"covers up.\" - NARA - 513846.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:%22An_ostrich_only_thinks_he_%22covers_up.%22_-_NARA_-_513846.jpg",
+     "license": "public domain",
+     "author": "Packer, poster artist, Artist (NARA record: 8467744)"
+    },
+    {
+     "file": "birds_ostrich_2.jpg",
+     "title": "File:Ostrich fern (54530277398).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ostrich_fern_(54530277398).jpg",
+     "license": "public domain",
+     "author": "U.S. Fish and Wildlife Service - Midwest Region"
+    },
+    {
+     "file": "birds_ostrich_3.jpg",
+     "title": "File:An Ostrich Stands on the Horizon in Nairobi National Park (16737772403).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:An_Ostrich_Stands_on_the_Horizon_in_Nairobi_National_Park_(16737772403).jpg",
+     "license": "public domain",
+     "author": "U.S. Department of State from United States"
+    }
+   ]
+  }
+ ]
+}
