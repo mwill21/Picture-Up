@@ -77,13 +77,10 @@ NEG = "-person -people -man -men -woman -women -boy -girl -children -officer -so
 
 # Better search text for cards whose first-round results were poor (people, brands, wrong subject).
 QUERY_OVERRIDES = {
-    "Flamingo": "flamingo phoenicopterus -marina -everglades", "Peacock": "peafowl pavo cristatus", "Macaw": "scarlet macaw ara macao",
-    "Ostrich": "ostrich struthio camelus", "Solar Eclipse": "total solar eclipse corona totality", "Banana": "bananas bunch fruit -watercolor -painting -print",
-    "Tomato": "ripe red tomatoes -laboratory", "Pumpkin": "pumpkins orange jack-o-lantern -pie -galaxy -soup -libby",
-    "Garbage Truck": "garbage truck refuse collection", "Tractor": "farm tractor field", "Ambulance": "ambulance -crescent",
-    "Police Car": "police car cruiser", "Train": "freight train locomotive railroad", "Bicycle": "bicycle parked bike",
-    "Cement Mixer": "concrete mixer truck", "Excavator": "excavator digging construction", "Bulldozer": "bulldozer construction",
-    "Tow Truck": "tow truck wrecker", "Pickup Truck": "pickup truck", "Taxi": "taxi cab",
+    # round-3 queries (used with --no-neg); the rest were tuned in round 2
+    "Peacock": "peacock bird feathers", "Macaw": "macaw parrot", "Solar Eclipse": "total solar eclipse corona",
+    "Banana": "bananas", "Tomato": "tomatoes", "Pumpkin": "pumpkin patch orange -carved -carving -lantern -pie -libby -galaxy -soup",
+    "Garbage Truck": "garbage truck", "Tractor": "tractor", "Excavator": "excavator", "Bulldozer": "bulldozer", "Taxi": "taxi cab yellow",
 }
 
 # Extra words that may name a card besides its label (regex alternatives).
@@ -214,8 +211,12 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("only", nargs="*", help="group ids (birds space produce vehicles) or group:Label")
     ap.add_argument("--candidates", type=int, default=3, help="candidates to keep per card (default 3)")
+    ap.add_argument("--no-neg", action="store_true", help="do not exclude people-related words from searches")
     ap.add_argument("--delay", type=float, default=1.5, help="seconds between requests (default 1.5)")
     a = ap.parse_args()
+    global NEG
+    if a.no_neg:
+        NEG = ""
     for d in (IMG, SHEETS):
         os.makedirs(d, exist_ok=True)
 
