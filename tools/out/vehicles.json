@@ -1,0 +1,224 @@
+{
+ "id": "vehicles",
+ "name": "Trucks & Vehicles",
+ "emoji": "🚒",
+ "items": [
+  {
+   "label": "Garbage Truck",
+   "candidates": []
+  },
+  {
+   "label": "Tractor",
+   "candidates": []
+  },
+  {
+   "label": "Ambulance",
+   "candidates": [
+    {
+     "file": "vehicles_ambulance_1.jpg",
+     "title": "File:20250906 FS Sierra GarnetFire SW (54771654436).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20250906_FS_Sierra_GarnetFire_SW_(54771654436).jpg",
+     "license": "public domain",
+     "author": "Region 5 Photography"
+    },
+    {
+     "file": "vehicles_ambulance_2.jpg",
+     "title": "File:2019 08 31-15.37.42.636-CDT.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2019_08_31-15.37.42.636-CDT.jpg",
+     "license": "public domain",
+     "author": "Mike McMillan - DNR"
+    },
+    {
+     "file": "vehicles_ambulance_3.jpg",
+     "title": "File:LST-357 loading.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:LST-357_loading.jpg",
+     "license": "public domain",
+     "author": ""
+    }
+   ]
+  },
+  {
+   "label": "Police Car",
+   "candidates": [
+    {
+     "file": "vehicles_police-car_1.jpg",
+     "title": "File:Police car, Croatia.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Police_car,_Croatia.jpg",
+     "license": "public domain",
+     "author": "Jarba"
+    },
+    {
+     "file": "vehicles_police-car_2.jpg",
+     "title": "File:Police car Vinnytsia 2016 G1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Police_car_Vinnytsia_2016_G1.jpg",
+     "license": "public domain",
+     "author": "George Chernilevsky"
+    },
+    {
+     "file": "vehicles_police-car_3.jpg",
+     "title": "File:Cambridge MA Police Cruiser (2009) old2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Cambridge_MA_Police_Cruiser_(2009)_old2.jpg",
+     "license": "public domain",
+     "author": "CaribDigita"
+    }
+   ]
+  },
+  {
+   "label": "Train",
+   "candidates": [
+    {
+     "file": "vehicles_train_1.jpg",
+     "title": "File:Albany and Eastern.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Albany_and_Eastern.JPG",
+     "license": "public domain",
+     "author": "Katr67"
+    },
+    {
+     "file": "vehicles_train_2.jpg",
+     "title": "File:Sanford depot with SCCR 1603.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Sanford_depot_with_SCCR_1603.jpg",
+     "license": "public domain",
+     "author": "Nyttend"
+    }
+   ]
+  },
+  {
+   "label": "Bicycle",
+   "candidates": [
+    {
+     "file": "vehicles_bicycle_1.jpg",
+     "title": "File:Bike racks, Cambridge, MA - IMG 4554.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Bike_racks,_Cambridge,_MA_-_IMG_4554.JPG",
+     "license": "public domain",
+     "author": "Daderot"
+    },
+    {
+     "file": "vehicles_bicycle_2.jpg",
+     "title": "File:Blue Trek parked.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Trek_parked.JPG",
+     "license": "public domain",
+     "author": "SeppVei"
+    },
+    {
+     "file": "vehicles_bicycle_3.jpg",
+     "title": "File:Bike n Roll P84 Feb jeh.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Bike_n_Roll_P84_Feb_jeh.JPG",
+     "license": "public domain",
+     "author": "Jim.henderson"
+    }
+   ]
+  },
+  {
+   "label": "Cement Mixer",
+   "candidates": [
+    {
+     "file": "vehicles_cement-mixer_1.jpg",
+     "title": "File:Spotonconcrete.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Spotonconcrete.JPG",
+     "license": "public domain",
+     "author": "Spotonconcrete"
+    },
+    {
+     "file": "vehicles_cement-mixer_2.jpg",
+     "title": "File:CementMixerKayabaRocketM2418.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:CementMixerKayabaRocketM2418.jpg",
+     "license": "public domain",
+     "author": "Fg2"
+    },
+    {
+     "file": "vehicles_cement-mixer_3.jpg",
+     "title": "File:Fahrmischer-Anhänger.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Fahrmischer-Anh%C3%A4nger.JPG",
+     "license": "public domain",
+     "author": "User:Mattes"
+    }
+   ]
+  },
+  {
+   "label": "Excavator",
+   "candidates": []
+  },
+  {
+   "label": "Bulldozer",
+   "candidates": []
+  },
+  {
+   "label": "Tow Truck",
+   "candidates": [
+    {
+     "file": "vehicles_tow-truck_1.jpg",
+     "title": "File:GMC C-K Tow Truck (Auto classique Showtime Muscle Cars '12).JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:GMC_C-K_Tow_Truck_(Auto_classique_Showtime_Muscle_Cars_%2712).JPG",
+     "license": "public domain",
+     "author": "Bull-Doser at English Wikipedia"
+    },
+    {
+     "file": "vehicles_tow-truck_2.jpg",
+     "title": "File:Flat Bed Tow Truck.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flat_Bed_Tow_Truck.jpg",
+     "license": "public domain",
+     "author": "Jelson25"
+    },
+    {
+     "file": "vehicles_tow-truck_3.jpg",
+     "title": "File:MINI loaded onto tow truck.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:MINI_loaded_onto_tow_truck.jpg",
+     "license": "public domain",
+     "author": "No machine-readable author provided. Edward assumed (based on copyright claims)."
+    }
+   ]
+  },
+  {
+   "label": "Pickup Truck",
+   "candidates": [
+    {
+     "file": "vehicles_pickup-truck_1.jpg",
+     "title": "File:2023 Employee Photo Contest (53367454315).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2023_Employee_Photo_Contest_(53367454315).jpg",
+     "license": "public domain",
+     "author": "usfs_Eastern_Region"
+    },
+    {
+     "file": "vehicles_pickup-truck_2.jpg",
+     "title": "File:24-10-23 SWAPI-1025.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:24-10-23_SWAPI-1025.jpg",
+     "license": "public domain",
+     "author": "NASA/Johns Hopkins APL/Princeton/Ed Whitman)"
+    },
+    {
+     "file": "vehicles_pickup-truck_3.jpg",
+     "title": "File:Lunar Electric Rover 2008 desert testing 2.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Lunar_Electric_Rover_2008_desert_testing_2.JPG",
+     "license": "public domain",
+     "author": "NASA/Regan Geeseman"
+    }
+   ]
+  },
+  {
+   "label": "Taxi",
+   "candidates": [
+    {
+     "file": "vehicles_taxi_1.jpg",
+     "title": "File:Crawler-transporter driver Sam Dove in CT-2 cab (KSC-20180827-PH CSH01 0005).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Crawler-transporter_driver_Sam_Dove_in_CT-2_cab_(KSC-20180827-PH_CSH01_0005).jpg",
+     "license": "public domain",
+     "author": "Cory Huston"
+    },
+    {
+     "file": "vehicles_taxi_2.jpg",
+     "title": "File:Perseus Taxi (EC91-0623-30).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Perseus_Taxi_(EC91-0623-30).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA"
+    },
+    {
+     "file": "vehicles_taxi_3.jpg",
+     "title": "File:Paresev on Taxi Strip (E-7914).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Paresev_on_Taxi_Strip_(E-7914).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA"
+    }
+   ]
+  }
+ ]
+}

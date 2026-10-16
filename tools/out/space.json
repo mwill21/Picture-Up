@@ -1,0 +1,33 @@
+{
+ "id": "space",
+ "name": "Space",
+ "emoji": "🚀",
+ "items": [
+  {
+   "label": "Solar Eclipse",
+   "candidates": [
+    {
+     "file": "space_solar-eclipse_1.jpg",
+     "title": "File:2026 Total Solar Eclipse Imagery - Science Experiments (SVS15075 - WB57Team3 CreditNASAAbbeyInterrante).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2026_Total_Solar_Eclipse_Imagery_-_Science_Experiments_(SVS15075_-_WB57Team3_CreditNASAAbbeyInterrante).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - NASA/Abbey Interrante"
+    },
+    {
+     "file": "space_solar-eclipse_2.jpg",
+     "title": "File:2026 Total Solar Eclipse Imagery - Science Experiments (SVS15075 - WB57Team1 CreditNASAAbbeyInterrante).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2026_Total_Solar_Eclipse_Imagery_-_Science_Experiments_(SVS15075_-_WB57Team1_CreditNASAAbbeyInterrante).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - NASA/Abbey Interrante"
+    },
+    {
+     "file": "space_solar-eclipse_3.jpg",
+     "title": "File:2026 Total Solar Eclipse Imagery - Science Experiments (SVS15075 - WB57Team2 CreditNASAAbbeyInterrante).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2026_Total_Solar_Eclipse_Imagery_-_Science_Experiments_(SVS15075_-_WB57Team2_CreditNASAAbbeyInterrante).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - NASA/Abbey Interrante"
+    }
+   ]
+  }
+ ]
+}

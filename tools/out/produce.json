@@ -1,0 +1,41 @@
+{
+ "id": "produce",
+ "name": "Fruits & Veggies",
+ "emoji": "🍎",
+ "items": [
+  {
+   "label": "Banana",
+   "candidates": []
+  },
+  {
+   "label": "Tomato",
+   "candidates": []
+  },
+  {
+   "label": "Pumpkin",
+   "candidates": [
+    {
+     "file": "produce_pumpkin_1.jpg",
+     "title": "File:Traveler and Friends Halloween Pumpkin Stencils (SVS14436 - PumpkinTemplate BlackHole Illuminated).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Traveler_and_Friends_Halloween_Pumpkin_Stencils_(SVS14436_-_PumpkinTemplate_BlackHole_Illuminated).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - Ashley Balzer, Sara Mitchell, Scott Wiessinger, Kelly Ramos, Sara Blumberg"
+    },
+    {
+     "file": "produce_pumpkin_2.jpg",
+     "title": "File:Traveler and Friends Halloween Pumpkin Stencils (SVS14436 - PumpkinTemplate Traveler PokingOutlines2).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Traveler_and_Friends_Halloween_Pumpkin_Stencils_(SVS14436_-_PumpkinTemplate_Traveler_PokingOutlines2).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - Ashley Balzer, Sara Mitchell, Scott Wiessinger, Kelly Ramos, Sara Blumberg"
+    },
+    {
+     "file": "produce_pumpkin_3.jpg",
+     "title": "File:Traveler and Friends Halloween Pumpkin Stencils (SVS14436 - PumpkinTemplate BlackHole ScrapingDetails).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Traveler_and_Friends_Halloween_Pumpkin_Stencils_(SVS14436_-_PumpkinTemplate_BlackHole_ScrapingDetails).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - Ashley Balzer, Sara Mitchell, Scott Wiessinger, Kelly Ramos, Sara Blumberg"
+    }
+   ]
+  }
+ ]
+}

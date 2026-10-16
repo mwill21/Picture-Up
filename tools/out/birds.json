@@ -1,0 +1,89 @@
+{
+ "id": "birds",
+ "name": "Birds",
+ "emoji": "🐦",
+ "items": [
+  {
+   "label": "Flamingo",
+   "candidates": [
+    {
+     "file": "birds_flamingo_1.jpg",
+     "title": "File:Flamingos at Haulover Canal (KSC-20240111-PH-KLS01 0168).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Flamingos_at_Haulover_Canal_(KSC-20240111-PH-KLS01_0168).jpg",
+     "license": "public domain",
+     "author": "NASA Kennedy Space Center / NASA/Kim Shiflett"
+    },
+    {
+     "file": "birds_flamingo_2.jpg",
+     "title": "File:Pink Lakes in Tunisia (MODIS 2020-02-03).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pink_Lakes_in_Tunisia_(MODIS_2020-02-03).jpg",
+     "license": "public domain",
+     "author": "MODIS Land Rapid Response Team, NASA GSFC"
+    },
+    {
+     "file": "birds_flamingo_3.jpg",
+     "title": "File:Bristol.zoo.greater.flamingo.arp.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Bristol.zoo.greater.flamingo.arp.jpg",
+     "license": "public domain",
+     "author": "Arpingstone"
+    }
+   ]
+  },
+  {
+   "label": "Peacock",
+   "candidates": [
+    {
+     "file": "birds_peacock_1.jpg",
+     "title": "File:Clear skies over the Caribbean (MODIS 2020-04-13).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Clear_skies_over_the_Caribbean_(MODIS_2020-04-13).jpg",
+     "license": "public domain",
+     "author": "MODIS Land Rapid Response Team, NASA GSFC"
+    },
+    {
+     "file": "birds_peacock_2.jpg",
+     "title": "File:20250605-FS-KU-1001 (54570845974).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20250605-FS-KU-1001_(54570845974).jpg",
+     "license": "public domain",
+     "author": "Forest Service Photography"
+    },
+    {
+     "file": "birds_peacock_3.jpg",
+     "title": "File:Dust and Hydrogen Sulfide along the Namibian Coast.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Dust_and_Hydrogen_Sulfide_along_the_Namibian_Coast.jpg",
+     "license": "public domain",
+     "author": "Jeff Schmaltz"
+    }
+   ]
+  },
+  {
+   "label": "Macaw",
+   "candidates": []
+  },
+  {
+   "label": "Ostrich",
+   "candidates": [
+    {
+     "file": "birds_ostrich_1.jpg",
+     "title": "File:Struthio camelus massaicus male in Tsavo West National Park.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_massaicus_male_in_Tsavo_West_National_Park.jpg",
+     "license": "public domain",
+     "author": "CT Cooper"
+    },
+    {
+     "file": "birds_ostrich_2.jpg",
+     "title": "File:Struthio camelus massaicus male in Tsavo West National Park 2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_massaicus_male_in_Tsavo_West_National_Park_2.jpg",
+     "license": "public domain",
+     "author": "CT Cooper"
+    },
+    {
+     "file": "birds_ostrich_3.jpg",
+     "title": "File:Struthio camelus massaicus male in Tsavo West National Park 3.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_massaicus_male_in_Tsavo_West_National_Park_3.jpg",
+     "license": "public domain",
+     "author": "CT Cooper"
+    }
+   ]
+  }
+ ]
+}
