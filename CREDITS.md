@@ -23,6 +23,7 @@ Each file was marked public domain or CC0 in its Commons license metadata when i
 | Birds | Seagull | https://commons.wikimedia.org/wiki/File:Yellow-legged_Gull_flying,_Ibiza.jpg | cc0 | Joselodos |
 | Birds | Flamingo | https://commons.wikimedia.org/wiki/File:Bristol.zoo.greater.flamingo.arp.jpg | public domain | Arpingstone |
 | Birds | Ostrich | https://commons.wikimedia.org/wiki/File:Struthio_camelus_massaicus_male_in_Tsavo_West_National_Park.jpg | public domain | CT Cooper |
+| Birds | Peacock | https://commons.wikimedia.org/wiki/File:Full_plumage_display_by_a_peacock_on_Fort_George_Island._(db57ba15-5763-4abd-8e28-bee1562960c9).jpg | public domain | NPS |
 | Space | Moon | https://commons.wikimedia.org/wiki/File:Full_moon_partially_obscured_by_atmosphere.jpg | public domain | NASA |
 | Space | Sun | https://commons.wikimedia.org/wiki/File:Solar_Cycle_25_-_the_Solar_Magnetic_Field_from_Solar_Minimum_to_Pole_Flip_(SVS5344_-_SolarCycle_Min2Max_HMI_INTENSITY_033000_print).jpg | public domain | NASA's Scientific Visualization Studio - Global Science and Technology, Inc./Tom Bridgman, eMITS/Joy Ng, ADNET Systems, |
 | Space | Earth | https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg | public domain | NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans |
@@ -42,6 +43,7 @@ Each file was marked public domain or CC0 in its Commons license metadata when i
 | Space | Comet | https://commons.wikimedia.org/wiki/File:Comet_81P_Wild_with_jets.jpg | public domain | NASA/JPL |
 | Space | Hubble Telescope | https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up.jpg | public domain | NASA |
 | Space | Mars Rover | https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg | public domain | NASA |
+| Space | Solar Eclipse | https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-008).jpg | public domain | NASA Armstrong Flight Research Center / NASA/Carla Thomas |
 | Fruits & Veggies | Apple | https://commons.wikimedia.org/wiki/File:HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_shop_fruit_red_apple_August_2025_N13P_03.jpg | cc0 | Wandenging Biimou |
 | Fruits & Veggies | Orange | https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg | public domain | see page |
 | Fruits & Veggies | Strawberry | https://commons.wikimedia.org/wiki/File:A_strawberry_with_achene.jpg | public domain | Renee Comet (Photographer) |
@@ -59,6 +61,9 @@ Each file was marked public domain or CC0 in its Commons license metadata when i
 | Fruits & Veggies | Bell Pepper | https://commons.wikimedia.org/wiki/File:RedBellPepper.jpg | public domain | Renee Comet (photographer) |
 | Fruits & Veggies | Peas | https://commons.wikimedia.org/wiki/File:Green_pea_pods.jpg | cc0 | Fumikas Sagisavas |
 | Fruits & Veggies | Onion | https://commons.wikimedia.org/wiki/File:ARS_red_onion.jpg | public domain | Stephen Ausmus, USDA ARS |
+| Fruits & Veggies | Banana | https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007284.jpg | public domain | Schutt, Ellen Isham, 1873-1955 |
+| Fruits & Veggies | Tomato | https://commons.wikimedia.org/wiki/File:Tomatoes_at_the_Yauco_Cooperative_Growers%27_Association_1a34049v.jpg | public domain | Jack Delano |
+| Fruits & Veggies | Pumpkin | https://commons.wikimedia.org/wiki/File:Orange_Halloween_pumpkins_(Unsplash).jpg | cc0 | Vlad K. vlad_k |
 | Trucks & Vehicles | Fire Truck | https://commons.wikimedia.org/wiki/File:Fire_engine_at_Wright-Patterson_Air_Force_Base.JPG | public domain | William Pugh, U.S. Air Force |
 | Trucks & Vehicles | Dump Truck | https://commons.wikimedia.org/wiki/File:Dump_truck_in_Bean_Lake.jpg | public domain | Shannon Bond, U.S. Air Force |
 | Trucks & Vehicles | School Bus | https://commons.wikimedia.org/wiki/File:Crusaders_School_Bus,_Chalmette,_Louisiana.jpg | public domain | Uncredited for National Park Service |
@@ -74,3 +79,8 @@ Each file was marked public domain or CC0 in its Commons license metadata when i
 | Trucks & Vehicles | Cement Mixer | https://commons.wikimedia.org/wiki/File:CementMixerKayabaRocketM2418.jpg | public domain | Fg2 |
 | Trucks & Vehicles | Tow Truck | https://commons.wikimedia.org/wiki/File:Flat_Bed_Tow_Truck.jpg | public domain | Jelson25 |
 | Trucks & Vehicles | Pickup Truck | https://commons.wikimedia.org/wiki/File:2023_Employee_Photo_Contest_(53367454315).jpg | public domain | usfs_Eastern_Region |
+| Trucks & Vehicles | Garbage Truck | https://commons.wikimedia.org/wiki/File:Garbage_Truck_at_Croton_Landfill_Operation.jpg | public domain | The US National Archives |
+| Trucks & Vehicles | Tractor | https://commons.wikimedia.org/wiki/File:Tractor_in_Afghanistan.jpg | public domain | Artur Shvartsberg, U.S. Marine Corps |
+| Trucks & Vehicles | Excavator | https://commons.wikimedia.org/wiki/File:Excavator_with_grapple.jpg | cc0 | Wikideas1 |
+| Trucks & Vehicles | Bulldozer | https://commons.wikimedia.org/wiki/File:2017_12_07-17.15.07.359-CST.jpg | public domain | U.S. Forest Service |
+| Trucks & Vehicles | Taxi | https://commons.wikimedia.org/wiki/File:SF_yellow_cab_02.jpg | cc0 | Grandmaster Huon |
