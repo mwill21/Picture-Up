@@ -1,0 +1,207 @@
+{
+ "id": "vehicles",
+ "name": "Trucks & Vehicles",
+ "emoji": "🚒",
+ "items": [
+  {
+   "label": "Garbage Truck",
+   "candidates": [
+    {
+     "file": "vehicles_garbage-truck_1.jpg",
+     "title": "File:Strike breakers on garbage truck.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Strike_breakers_on_garbage_truck.jpg",
+     "license": "public domain",
+     "author": "Library of Congress"
+    },
+    {
+     "file": "vehicles_garbage-truck_2.jpg",
+     "title": "File:Garbage Truck at Croton Landfill Operation.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Garbage_Truck_at_Croton_Landfill_Operation.jpg",
+     "license": "public domain",
+     "author": "The US National Archives"
+    },
+    {
+     "file": "vehicles_garbage-truck_3.jpg",
+     "title": "File:MECHANICAL \"ARM\" OF GARBAGE TRUCK PICKS UP 320-GALLON TRASH CONTAINER AND DUMPS CONTENTS INTO TRUCK. NICKNAMED... - NARA - 544057.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:MECHANICAL_%22ARM%22_OF_GARBAGE_TRUCK_PICKS_UP_320-GALLON_TRASH_CONTAINER_AND_DUMPS_CONTENTS_INTO_TRUCK._NICKNAMED..._-_NARA_-_544057.jpg",
+     "license": "public domain",
+     "author": "Cornelius M. Keyes"
+    },
+    {
+     "file": "vehicles_garbage-truck_4.jpg",
+     "title": "File:Removing garbage from house garbage disposal shelter. Garbage is then hauled by truck to remote mountain area.... - NARA - 540897.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Removing_garbage_from_house_garbage_disposal_shelter._Garbage_is_then_hauled_by_truck_to_remote_mountain_area...._-_NARA_-_540897.jpg",
+     "license": "public domain",
+     "author": "Russell Lee"
+    },
+    {
+     "file": "vehicles_garbage-truck_5.jpg",
+     "title": "File:BURNING GARBAGE AT AN OPEN DUMP ON HIGHWAY 112 - NARA - 546381.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:BURNING_GARBAGE_AT_AN_OPEN_DUMP_ON_HIGHWAY_112_-_NARA_-_546381.jpg",
+     "license": "public domain",
+     "author": "John Vachon"
+    }
+   ]
+  },
+  {
+   "label": "Tractor",
+   "candidates": [
+    {
+     "file": "vehicles_tractor_1.jpg",
+     "title": "File:Clarktor-6 Towing Tractor.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Clarktor-6_Towing_Tractor.jpg",
+     "license": "public domain",
+     "author": "National Museum of the United States Air Force"
+    },
+    {
+     "file": "vehicles_tractor_2.jpg",
+     "title": "File:Tractor in Iraq.JPEG",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_in_Iraq.JPEG",
+     "license": "public domain",
+     "author": "LCPL Ryan B. Busse, U.S. Marine Corps"
+    },
+    {
+     "file": "vehicles_tractor_3.jpg",
+     "title": "File:Tractor in Afghanistan.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tractor_in_Afghanistan.jpg",
+     "license": "public domain",
+     "author": "Artur Shvartsberg, U.S. Marine Corps"
+    },
+    {
+     "file": "vehicles_tractor_4.jpg",
+     "title": "File:Foton tractor in Iraq.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Foton_tractor_in_Iraq.jpg",
+     "license": "public domain",
+     "author": "Pfc. Crystal M. O’Neal"
+    },
+    {
+     "file": "vehicles_tractor_5.jpg",
+     "title": "File:Air tractor AT-802U at Hurlburt Field.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Air_tractor_AT-802U_at_Hurlburt_Field.jpg",
+     "license": "public domain",
+     "author": "U.S. Air Force/Airman 1st Class Ty Pilgrim"
+    }
+   ]
+  },
+  {
+   "label": "Excavator",
+   "candidates": [
+    {
+     "file": "vehicles_excavator_1.jpg",
+     "title": "File:US Air Force (USAF) personnel assigned to the 200th Civil Engineering Squadron, use a wheeled excavator to dig trenches at the barracks construction site, at Up Park Camp, located i - DPLA - 9ff792241e73fcd140661150969b323b.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Air_Force_(USAF)_personnel_assigned_to_the_200th_Civil_Engineering_Squadron,_use_a_wheeled_excavator_to_dig_trenches_at_the_barracks_construction_site,_at_Up_Park_Camp,_located_i_-_DPLA_-_9ff792241e73fcd140661150969b323b.jpeg",
+     "license": "public domain",
+     "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994"
+    },
+    {
+     "file": "vehicles_excavator_2.jpg",
+     "title": "File:Excavator Making Waterbars to Reduce Erosion.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Excavator_Making_Waterbars_to_Reduce_Erosion.jpg",
+     "license": "public domain",
+     "author": "United States Forest Service"
+    },
+    {
+     "file": "vehicles_excavator_3.jpg",
+     "title": "File:Kubota excavator.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kubota_excavator.jpg",
+     "license": "public domain",
+     "author": "Rey Ramon, U.S. Air Force"
+    },
+    {
+     "file": "vehicles_excavator_4.jpg",
+     "title": "File:Doosan tracked excavator.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Doosan_tracked_excavator.jpg",
+     "license": "public domain",
+     "author": "Randy Murray, Fort Stewart Public Affairs (U.S. Army)"
+    },
+    {
+     "file": "vehicles_excavator_5.jpg",
+     "title": "File:Excavator with grapple.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Excavator_with_grapple.jpg",
+     "license": "cc0",
+     "author": "Wikideas1"
+    }
+   ]
+  },
+  {
+   "label": "Bulldozer",
+   "candidates": [
+    {
+     "file": "vehicles_bulldozer_1.jpg",
+     "title": "File:2017 12 07-17.15.07.359-CST.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_12_07-17.15.07.359-CST.jpg",
+     "license": "public domain",
+     "author": "U.S. Forest Service"
+    },
+    {
+     "file": "vehicles_bulldozer_2.jpg",
+     "title": "File:20180930 FS BTNF CJC DozerOperations RooseveltFire 2.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_2.jpg",
+     "license": "public domain",
+     "author": "Intermountain Forest Service, USDA Region 4 Photography"
+    },
+    {
+     "file": "vehicles_bulldozer_3.jpg",
+     "title": "File:20180930 FS BTNF CJC DozerOperations RooseveltFire 1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_1.jpg",
+     "license": "public domain",
+     "author": "Intermountain Forest Service, USDA Region 4 Photography"
+    },
+    {
+     "file": "vehicles_bulldozer_4.jpg",
+     "title": "File:2022 08 05-13.58.42.863-CDT.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2022_08_05-13.58.42.863-CDT.jpg",
+     "license": "public domain",
+     "author": "Steve McQuillan"
+    },
+    {
+     "file": "vehicles_bulldozer_5.jpg",
+     "title": "File:Civilians-watch-U-S-Army-engineers-work-on-the-road-in -Burma-391757373059.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Civilians-watch-U-S-Army-engineers-work-on-the-road-in_-Burma-391757373059.jpg",
+     "license": "public domain",
+     "author": "Unknown photographer"
+    }
+   ]
+  },
+  {
+   "label": "Taxi",
+   "candidates": [
+    {
+     "file": "vehicles_taxi_1.jpg",
+     "title": "File:Dodge Polara and other Yellow Cabs in 1973 (NYC).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Dodge_Polara_and_other_Yellow_Cabs_in_1973_(NYC).jpg",
+     "license": "public domain",
+     "author": "Dan McCoy"
+    },
+    {
+     "file": "vehicles_taxi_2.jpg",
+     "title": "File:TAKING ON A FARE, CAB BLOCKS TRAFFIC IN MIDTOWN MANHATTAN - NARA - 549873.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:TAKING_ON_A_FARE,_CAB_BLOCKS_TRAFFIC_IN_MIDTOWN_MANHATTAN_-_NARA_-_549873.jpg",
+     "license": "public domain",
+     "author": "Dan McCoy"
+    },
+    {
+     "file": "vehicles_taxi_3.jpg",
+     "title": "File:NEW YORK CITY CANYON-TALL BUILDINGS JUT INTO THE AIR, YELLOW CABS AND OTHER VEHICLES CRAWL THROUGH THE CONGESTED... - NARA - 548331.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:NEW_YORK_CITY_CANYON-TALL_BUILDINGS_JUT_INTO_THE_AIR,_YELLOW_CABS_AND_OTHER_VEHICLES_CRAWL_THROUGH_THE_CONGESTED..._-_NARA_-_548331.jpg",
+     "license": "public domain",
+     "author": "Chester Higgins, Jr."
+    },
+    {
+     "file": "vehicles_taxi_4.jpg",
+     "title": "File:Taxi Cab in South Korea.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+     "license": "cc0",
+     "author": "Joshua T. Garcia"
+    },
+    {
+     "file": "vehicles_taxi_5.jpg",
+     "title": "File:SF yellow cab 02.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:SF_yellow_cab_02.jpg",
+     "license": "cc0",
+     "author": "Grandmaster Huon"
+    }
+   ]
+  }
+ ]
+}

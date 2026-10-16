@@ -1,0 +1,106 @@
+{
+ "id": "produce",
+ "name": "Fruits & Veggies",
+ "emoji": "🍎",
+ "items": [
+  {
+   "label": "Banana",
+   "candidates": [
+    {
+     "file": "produce_banana_1.jpg",
+     "title": "File:Pomological Watercolor POM00000850.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00000850.jpg",
+     "license": "public domain",
+     "author": "J. Marion Shull"
+    },
+    {
+     "file": "produce_banana_2.jpg",
+     "title": "File:Pomological Watercolor POM00007496.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007496.jpg",
+     "license": "public domain",
+     "author": "Newton, Amanda Almira, ca. 1860-1943"
+    },
+    {
+     "file": "produce_banana_3.jpg",
+     "title": "File:Banana Men SAAM-1974.28.113 1.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Banana_Men_SAAM-1974.28.113_1.jpg",
+     "license": "public domain",
+     "author": "Mabel Dwight"
+    },
+    {
+     "file": "produce_banana_4.jpg",
+     "title": "File:Pomological Watercolor POM00007283.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007283.jpg",
+     "license": "public domain",
+     "author": "Newton, Amanda Almira, ca. 1860-1943"
+    },
+    {
+     "file": "produce_banana_5.jpg",
+     "title": "File:Pomological Watercolor POM00007284.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pomological_Watercolor_POM00007284.jpg",
+     "license": "public domain",
+     "author": "Schutt, Ellen Isham, 1873-1955"
+    }
+   ]
+  },
+  {
+   "label": "Tomato",
+   "candidates": [
+    {
+     "file": "produce_tomato_1.jpg",
+     "title": "File:Tomato plant in a farm in Iraq.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomato_plant_in_a_farm_in_Iraq.JPG",
+     "license": "public domain",
+     "author": "Venessa Hernandez, U.S. Army"
+    },
+    {
+     "file": "produce_tomato_2.jpg",
+     "title": "File:Tomato plants in the Veggie Passive Orbital Nutrient Delivery System (PONDS).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomato_plants_in_the_Veggie_Passive_Orbital_Nutrient_Delivery_System_(PONDS).jpg",
+     "license": "public domain",
+     "author": "Cory Huston"
+    },
+    {
+     "file": "produce_tomato_3.jpg",
+     "title": "File:Washington, D.C. Tomatoes and peppers at the farmers' market8c28531v.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Washington,_D.C._Tomatoes_and_peppers_at_the_farmers%27_market8c28531v.jpg",
+     "license": "public domain",
+     "author": "Marjory Collins"
+    },
+    {
+     "file": "produce_tomato_4.jpg",
+     "title": "File:Tomatoes ARS.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomatoes_ARS.jpg",
+     "license": "public domain",
+     "author": "Jack Dykinga"
+    },
+    {
+     "file": "produce_tomato_5.jpg",
+     "title": "File:Tomatoes at the Yauco Cooperative Growers' Association 1a34049v.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomatoes_at_the_Yauco_Cooperative_Growers%27_Association_1a34049v.jpg",
+     "license": "public domain",
+     "author": "Jack Delano"
+    }
+   ]
+  },
+  {
+   "label": "Pumpkin",
+   "candidates": [
+    {
+     "file": "produce_pumpkin_1.jpg",
+     "title": "File:USMC-101016-M-2306T-016.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:USMC-101016-M-2306T-016.jpg",
+     "license": "public domain",
+     "author": "Lance Cpl. Lisa M. Tourtelot"
+    },
+    {
+     "file": "produce_pumpkin_2.jpg",
+     "title": "File:Orange Halloween pumpkins (Unsplash).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Orange_Halloween_pumpkins_(Unsplash).jpg",
+     "license": "cc0",
+     "author": "Vlad K. vlad_k"
+    }
+   ]
+  }
+ ]
+}

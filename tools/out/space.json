@@ -1,0 +1,47 @@
+{
+ "id": "space",
+ "name": "Space",
+ "emoji": "🚀",
+ "items": [
+  {
+   "label": "Solar Eclipse",
+   "candidates": [
+    {
+     "file": "space_solar-eclipse_1.jpg",
+     "title": "File:2024 Total Solar Eclipse Imagery (SVS14572 - Kerrville KatTroche).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2024_Total_Solar_Eclipse_Imagery_(SVS14572_-_Kerrville_KatTroche).jpg",
+     "license": "public domain",
+     "author": "NASA's Scientific Visualization Studio - KBR Wyle Services, LLC/Joy Ng"
+    },
+    {
+     "file": "space_solar-eclipse_2.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-008).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-008).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    },
+    {
+     "file": "space_solar-eclipse_3.jpg",
+     "title": "File:Artemis II Total Solar Eclipse, Partial Frame (art002e009298).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Artemis_II_Total_Solar_Eclipse,_Partial_Frame_(art002e009298).jpg",
+     "license": "public domain",
+     "author": "NASA Johnson Space Center / NASA"
+    },
+    {
+     "file": "space_solar-eclipse_4.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-006).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-006).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    },
+    {
+     "file": "space_solar-eclipse_5.jpg",
+     "title": "File:2017 Total Solar Eclipse (AFRC2017-0233-007).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Total_Solar_Eclipse_(AFRC2017-0233-007).jpg",
+     "license": "public domain",
+     "author": "NASA Armstrong Flight Research Center / NASA/Carla Thomas"
+    }
+   ]
+  }
+ ]
+}

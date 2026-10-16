@@ -1,0 +1,87 @@
+{
+ "id": "birds",
+ "name": "Birds",
+ "emoji": "🐦",
+ "items": [
+  {
+   "label": "Peacock",
+   "candidates": [
+    {
+     "file": "birds_peacock_1.jpg",
+     "title": "File:Full plumage display by a peacock on Fort George Island. (db57ba15-5763-4abd-8e28-bee1562960c9).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Full_plumage_display_by_a_peacock_on_Fort_George_Island._(db57ba15-5763-4abd-8e28-bee1562960c9).jpg",
+     "license": "public domain",
+     "author": "NPS"
+    },
+    {
+     "file": "birds_peacock_2.jpg",
+     "title": "File:Peacock showing its beautiful feathers old.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Peacock_showing_its_beautiful_feathers_old.jpg",
+     "license": "cc0",
+     "author": "Joselodos"
+    },
+    {
+     "file": "birds_peacock_3.jpg",
+     "title": "File:Peacock feathers. (8315379513).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Peacock_feathers._(8315379513).jpg",
+     "license": "cc0",
+     "author": "Bernard Spragg. NZ from Christchurch, New Zealand"
+    },
+    {
+     "file": "birds_peacock_4.jpg",
+     "title": "File:Peacock feathers. (20779300743).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Peacock_feathers._(20779300743).jpg",
+     "license": "cc0",
+     "author": "Bernard Spragg. NZ from Christchurch, New Zealand"
+    },
+    {
+     "file": "birds_peacock_5.jpg",
+     "title": "File:Peacock (7) (8315388393).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Peacock_(7)_(8315388393).jpg",
+     "license": "cc0",
+     "author": "Bernard Spragg. NZ from Christchurch, New Zealand"
+    }
+   ]
+  },
+  {
+   "label": "Macaw",
+   "candidates": [
+    {
+     "file": "birds_macaw_1.jpg",
+     "title": "File:PMNM - Setting Invasive Species Quadrat On USS Macaw (35209735730).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:PMNM_-_Setting_Invasive_Species_Quadrat_On_USS_Macaw_(35209735730).jpg",
+     "license": "public domain",
+     "author": "National Marine Sanctuaries"
+    },
+    {
+     "file": "birds_macaw_2.jpg",
+     "title": "File:USS Flier (SS-250) and USS Macaw (ASR-11) aground at Midway Atoll, 17 January 1944.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:USS_Flier_(SS-250)_and_USS_Macaw_(ASR-11)_aground_at_Midway_Atoll,_17_January_1944.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy"
+    },
+    {
+     "file": "birds_macaw_3.jpg",
+     "title": "File:CBP Agriculture Specialists Intercept Macaw Lacking Export Certification (11928939536).jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:CBP_Agriculture_Specialists_Intercept_Macaw_Lacking_Export_Certification_(11928939536).jpg",
+     "license": "public domain",
+     "author": "U.S. Customs and Border Protection"
+    },
+    {
+     "file": "birds_macaw_4.jpg",
+     "title": "File:Brian Schumaker's pet macaw accompanies him on a bicycle ride. All Hands - May 1983 - DPLA - d16b2fed18ba13f67fb1d23144c343b7.jpeg",
+     "page": "https://commons.wikimedia.org/wiki/File:Brian_Schumaker%27s_pet_macaw_accompanies_him_on_a_bicycle_ride._All_Hands_-_May_1983_-_DPLA_-_d16b2fed18ba13f67fb1d23144c343b7.jpeg",
+     "license": "public domain",
+     "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994"
+    },
+    {
+     "file": "birds_macaw_5.jpg",
+     "title": "File:US Navy 081808-N-4779D-018 Cerino, a blue and gold macaw, looks on as Aviation Structural Mechanic Airman Kenneth Micklos tends to pets.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_081808-N-4779D-018_Cerino,_a_blue_and_gold_macaw,_looks_on_as_Aviation_Structural_Mechanic_Airman_Kenneth_Micklos_tends_to_pets.jpg",
+     "license": "public domain",
+     "author": "U.S. Navy photo by Trice Denny"
+    }
+   ]
+  }
+ ]
+}
