@@ -1241,8 +1241,6 @@ let roundPass = [];
 let timerInterval = null;
 let timeLeft = 120;
 let tiltLocked = false;
-let baselineX = null;
-let baselineZ = null;
 let gameActive = false;
 
 // ══════════════════════════════
@@ -1375,9 +1373,11 @@ function startGame() {
   timeLeft = 120;
   gameActive = false;
   tiltLocked = false;
-  waitingForReturn = false;
-  baselineX = null;
-  baselineZ = null;
+  resetTiltState();
+  // Listen from the countdown on, so the neutral (phone-on-forehead) position is learned while it runs
+  if (window.DeviceMotionEvent) {
+    window.addEventListener('devicemotion', handleTilt);
+  }
 
   showScreen('screen-game');
   document.getElementById('game-player-name').textContent = players[currentPlayerIndex].name;
@@ -1537,37 +1537,95 @@ function showFlash(type, icon) {
 }
 
 // Tilt control
+// Angles are degrees away from the neutral position (phone held to the forehead).
+// Tune these if the game feels too touchy or too stiff.
+const TILT_CORRECT_DEG = 45;   // tilt DOWN this far = Correct
+const TILT_PASS_DEG = 55;      // tilt UP this far = Pass (higher, so a small lift never counts)
+const TILT_HOLD_MS = 150;      // must stay past the angle this long (ignores bumps and twitches)
+const SWING_MIN_DPS = 80;      // a deliberate swing rotates faster than this (deg/s); slow drifting doesn't
+const SWING_WINDOW_MS = 700;   // ...and that fast rotation must have happened this recently
+const REBASE_AFTER_MS = 1500;  // held past the angle with no swing = they just moved the phone, so re-centre
+const RETURN_DEG = 20;         // after a Correct/Pass, return within this of neutral to arm the next card
+const TILT_SMOOTH_S = 0.08;    // smoothing time constant for the angle (seconds)
+const TILT_DEBUG = /tiltdebug/i.test(location.search + location.hash);   // add ?tiltdebug to the address to see live readings
+
 let lastTiltTime = 0;
 let waitingForReturn = false;
 let lastActionTime = 0;
-function handleTilt(e) {
-  if (!gameActive) return;
-  const acc = e.accelerationIncludingGravity;
-  if (!acc) return;
+let tiltAngle = null;        // smoothed tilt of the screen, degrees
+let tiltBaseline = null;     // neutral angle
+let tiltPrevTs = 0;
+let tiltDir = 0;             // +1 past the Correct angle, -1 past the Pass angle, 0 neither
+let tiltDirSince = 0;
+let lastFastRotation = 0;
+let sawRotationRate = false;
+let tiltDebugEl = null;
+let tiltDebugTs = 0;
 
-  const x = acc.x;
-  const y = acc.y;
-  const z = acc.z;
+function resetTiltState() {
+  waitingForReturn = false;
+  lastActionTime = 0;
+  tiltAngle = null;
+  tiltBaseline = null;
+  tiltPrevTs = 0;
+  tiltDir = 0;
+  tiltDirSince = 0;
+  lastFastRotation = 0;
+  sawRotationRate = false;
+}
 
-  // Capture baseline on first reading after game starts
-  if (baselineX === null) {
-    baselineX = x;
-    baselineZ = z;
-    return;
+function showTiltDebug(now, tilt, rotSpeed) {
+  if (!TILT_DEBUG || now - tiltDebugTs < 100) return;
+  tiltDebugTs = now;
+  if (!tiltDebugEl) {
+    tiltDebugEl = document.createElement('div');
+    tiltDebugEl.style.cssText = 'position:fixed;left:6px;bottom:6px;z-index:99999;background:rgba(0,0,0,.7);color:#0f0;font:12px monospace;padding:4px 6px;border-radius:6px;pointer-events:none;white-space:pre';
+    document.body.appendChild(tiltDebugEl);
   }
+  tiltDebugEl.textContent = 'tilt ' + tilt.toFixed(0) + '°  (down>=' + TILT_CORRECT_DEG + ' up<=-' + TILT_PASS_DEG + ')\n' +
+    'spin ' + rotSpeed.toFixed(0) + '°/s  swing ' + ((now - lastFastRotation) <= SWING_WINDOW_MS ? 'yes' : 'no') +
+    (gameActive ? '' : '  [calibrating]') + (waitingForReturn ? '  [return to centre]' : '');
+}
 
+function handleTilt(e) {
+  const acc = e.accelerationIncludingGravity;
+  if (!acc || acc.x == null || acc.y == null || acc.z == null) return;
   const now = Date.now();
 
-  // Calculate tilt angle in degrees from baseline using Z axis
-  const deltaZ = z - baselineZ;
-  const tiltDegrees = Math.asin(Math.max(-1, Math.min(1, deltaZ / 9.8))) * (180 / Math.PI);
+  // Screen tilt from gravity: +90 = screen facing the floor, -90 = facing the ceiling, 0 = facing forward.
+  const g = Math.sqrt(acc.x * acc.x + acc.y * acc.y + acc.z * acc.z) || 9.8;
+  const raw = Math.asin(Math.max(-1, Math.min(1, acc.z / g))) * (180 / Math.PI);
 
-  // If waiting for phone to return to baseline after a correct/pass
+  // Smooth it so quick bumps and jerks can't look like a tilt
+  const dt = tiltPrevTs ? Math.min(0.1, (now - tiltPrevTs) / 1000) : 0;
+  tiltPrevTs = now;
+  tiltAngle = tiltAngle === null ? raw : tiltAngle + (dt ? 1 - Math.exp(-dt / TILT_SMOOTH_S) : 1) * (raw - tiltAngle);
+
+  // How fast the phone is rotating (any axis)
+  let rotSpeed = 0;
+  const r = e.rotationRate;
+  if (r && r.alpha != null && r.beta != null && r.gamma != null) {
+    sawRotationRate = true;
+    rotSpeed = Math.sqrt(r.alpha * r.alpha + r.beta * r.beta + r.gamma * r.gamma);
+  }
+  if (rotSpeed >= SWING_MIN_DPS) lastFastRotation = now;
+
+  // During the countdown just learn where the phone is resting (averaged over the last ~half second)
+  if (!gameActive) {
+    tiltBaseline = tiltBaseline === null ? tiltAngle : tiltBaseline + (dt ? 1 - Math.exp(-dt / 0.5) : 1) * (tiltAngle - tiltBaseline);
+    showTiltDebug(now, tiltAngle - tiltBaseline, rotSpeed);
+    return;
+  }
+  if (tiltBaseline === null) tiltBaseline = tiltAngle;
+  const tilt = tiltAngle - tiltBaseline;
+  showTiltDebug(now, tilt, rotSpeed);
+
+  // After a Correct/Pass, wait for the phone to come back to neutral before the next card
   if (waitingForReturn) {
-    // Must be within 20 degrees of baseline AND at least 800ms since last action
-    if (Math.abs(tiltDegrees) < 20 && (now - lastActionTime) > 800) {
+    if (Math.abs(tilt) < RETURN_DEG && (now - lastActionTime) > 800) {
       waitingForReturn = false;
       tiltLocked = false;
+      tiltDir = 0;
       if (currentCardIndex < currentCards.length) showCard();
       else endRound();
     }
@@ -1576,15 +1634,34 @@ function handleTilt(e) {
 
   if (tiltLocked) return;
 
-  // Require 40 degrees of deliberate tilt from baseline to trigger
-  if (tiltDegrees > 40) {
+  const dir = tilt >= TILT_CORRECT_DEG ? 1 : (tilt <= -TILT_PASS_DEG ? -1 : 0);
+  if (dir === 0) {
+    tiltDir = 0;
+    // Near neutral and not mid-swing: let neutral follow slow drift (tired arm, new grip)
+    if (Math.abs(tilt) < 25 && rotSpeed < SWING_MIN_DPS / 2 && dt) {
+      tiltBaseline += (1 - Math.exp(-dt / 3)) * tilt;
+    }
+    return;
+  }
+
+  if (dir !== tiltDir) {
+    tiltDir = dir;
+    tiltDirSince = now;
+    return;
+  }
+
+  const held = now - tiltDirSince;
+  const swung = !sawRotationRate || (now - lastFastRotation) <= SWING_WINDOW_MS;
+  if (held >= TILT_HOLD_MS && swung) {
     lastTiltTime = now;
     lastActionTime = now;
-    markCorrect();
-  } else if (tiltDegrees < -40) {
-    lastTiltTime = now;
-    lastActionTime = now;
-    markPass();
+    tiltDir = 0;
+    if (dir > 0) markCorrect();
+    else markPass();
+  } else if (held >= REBASE_AFTER_MS) {
+    // Past the angle for a long time but never swung there: they moved the phone, so treat this as the new neutral
+    tiltBaseline = tiltAngle;
+    tiltDir = 0;
   }
 }
 
